@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wechatpay-apiv3/wechatpay-go</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">微信支付 APIv3 的 Go Library</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gin-gonic/gin</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</div>
@@ -469,7 +469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Mar 2022, 22:23:08  with lowlighter/metrics@3.22.0-beta</span>
+                <span>Last updated 17 Mar 2022, 23:22:10  with lowlighter/metrics@3.22.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
