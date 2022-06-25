@@ -298,20 +298,6 @@
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">六兆年と一夜物語</div>
-                                    <div class="artist">鹿乃</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">ロマンティッククルージン</div>
-                                    <div class="artist">スタァライト九九組</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="" width="32" height="32" alt="" />
-                                <div class="infos">
                                     <div class="name">吹雪</div>
                                     <div class="artist">西沢幸奏</div>
                                 </div>
@@ -319,8 +305,22 @@
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Magia</div>
-                                    <div class="artist">Kalafina</div>
+                                    <div class="name">Bad Apple!!</div>
+                                    <div class="artist">nomico</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">KING</div>
+                                    <div class="artist">Kanaria</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">六兆年と一夜物語</div>
+                                    <div class="artist">鹿乃</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Trinkle23897/learn2018-autodown</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">清华大学新版网络学堂课程自动下载脚本 / A python script to clone all files from learn.tsinghua.edu.cn</div>
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2022, 14:19:48  with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 25 Jun 2022, 15:23:07  with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
