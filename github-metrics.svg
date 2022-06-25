@@ -298,20 +298,6 @@
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">僕らは今のなかで</div>
-                                    <div class="artist">μ's</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">きっと青春が聞こえる</div>
-                                    <div class="artist">μ's</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="" width="32" height="32" alt="" />
-                                <div class="infos">
                                     <div class="name">夜に駆ける</div>
                                     <div class="artist">YOASOBI</div>
                                 </div>
@@ -319,15 +305,29 @@
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Magia</div>
-                                    <div class="artist">Kalafina</div>
+                                    <div class="name">僕らは今のなかで</div>
+                                    <div class="artist">μ's</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bad Apple!!</div>
-                                    <div class="artist">nomico</div>
+                                    <div class="name">ロマンティッククルージン</div>
+                                    <div class="artist">スタァライト九九組</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">六兆年と一夜物語</div>
+                                    <div class="artist">鹿乃</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">きっと青春が聞こえる</div>
+                                    <div class="artist">μ's</div>
                                 </div>
                             </div>
                         </div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Trinkle23897/learn2018-autodown</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">清华大学新版网络学堂课程自动下载脚本 / A python script to clone all files from learn.tsinghua.edu.cn</div>
@@ -491,7 +491,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        823
+                                        824
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2022, 21:19:14  with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 25 Jun 2022, 22:22:48  with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
