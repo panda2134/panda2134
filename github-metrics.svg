@@ -298,27 +298,6 @@
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">KING</div>
-                                    <div class="artist">Kanaria</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">U.N.オーエンは彼女なのか?</div>
-                                    <div class="artist">ZUN</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">きっと青春が聞こえる</div>
-                                    <div class="artist">μ's</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="" width="32" height="32" alt="" />
-                                <div class="infos">
                                     <div class="name">六兆年と一夜物語</div>
                                     <div class="artist">鹿乃</div>
                                 </div>
@@ -328,6 +307,27 @@
                                 <div class="infos">
                                     <div class="name">吹雪</div>
                                     <div class="artist">西沢幸奏</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">夜に駆ける</div>
+                                    <div class="artist">YOASOBI</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">ロマンティッククルージン</div>
+                                    <div class="artist">スタァライト九九組</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Magia</div>
+                                    <div class="artist">Kalafina</div>
                                 </div>
                             </div>
                         </div>
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2022, 04:37:50  with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 26 Jun 2022, 05:21:43  with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
