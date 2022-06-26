@@ -298,22 +298,8 @@
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">KING</div>
-                                    <div class="artist">Kanaria</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">僕らは今のなかで</div>
-                                    <div class="artist">μ's</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">吹雪</div>
-                                    <div class="artist">西沢幸奏</div>
+                                    <div class="name">夜に駆ける</div>
+                                    <div class="artist">YOASOBI</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -326,8 +312,22 @@
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">ロマンティッククルージン</div>
-                                    <div class="artist">スタァライト九九組</div>
+                                    <div class="name">僕らは今のなかで</div>
+                                    <div class="artist">μ's</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">U.N.オーエンは彼女なのか?</div>
+                                    <div class="artist">ZUN</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Bad Apple!!</div>
+                                    <div class="artist">nomico</div>
                                 </div>
                             </div>
                         </div>
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dehydrated-io/dehydrated</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">letsencrypt/acme client implemented as a shell-script – just add water</div>
@@ -457,7 +457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webview/webview</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)</div>
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2022, 17:21:27  with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 26 Jun 2022, 18:26:29  with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
