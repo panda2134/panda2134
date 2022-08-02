@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 89 users
+                            Followed by 88 users
                         </div>
                     </section>
                     <section>
@@ -296,27 +296,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAv/EACwQAAEDAwQBAwMEAwAAAAAAAAECAwQABREGEiExE0FRYQcUIhUyQqFxcpH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQH/xAAiEQACAwABBAIDAAAAAAAAAAABAgADERIEISIxE0FRYYH/2gAMAwEAAhEDEQA/AMk+jdpkPOTrgplLcOPtC5LqApsHB/HnjPr8VfalsNmcYnXGDLeMp9KnUtlwbdpOSNvpwSe6m09bZtt0Pcrc635lyJzcuGCktqP4ncSOgMAdZHNS/UVF6it2/wC5/TnLcIqEpfiNlPJThQOffPv6cCuq3kAY21KpUdGkxH0zYUXKLaSw+hx56WWXIziOEAJzuzn8hgdYHPHVb/FYhacsMO12Zv7JmU4olAaK1FzjJKhnj5PAAArKNLOWiBb7e8Y7TMiNclyFygvaosePBQodYCsEHjvFO6/qB4tOvTG4qytElbPlbIU2oKwpKUn5TzjHB9eRS5rdt4yVWKhCsO8tEXpuOpiLNkW592elTUdmY4EofBGPyB/ieuueu6Ky+4OWDV+sYd4lXlMNthxrLD7KlKcQk7ing8YwRnBHIookTB5+5Y7O51V7Ru0TIb1I/cUTkurZRH+3bTHUlK9wwSEc5B+Bkc815euFoXa40TUAlsqt+5bkYsKPnKSQlOfjIycjr2NcNubvKZD8uPBh2diO4p7xNMhIWoYOwEglRwOifQECnCDbU3qREudwU/8AdISpSkJQCXCojbkHABx6D/NHYoq8mYS8EO2AZECXOg6gelx50GEhCX1gNslaFKSnbgZB5SQkdY+MGoZ1vsUbTLLUJmRGmElckRi5tUQDjhZIH+2BxmrGOBK1HcgVRdPuBgoUnzJJHIylSQcpJA9sfBo041FVOLynXnVo3POuJZ3hJzjjPScEYwTjgg0At+NS8VahWbjv9mfT7DdLdpqFfnJbKmZK9iUoI3JcyQQrPXvn/tFPeu3oT8RTTUFPkQFKbKVEqWrHJz+4En0/v2KlT/KvLIdlZrOCPd0mWtoiRqeUmLO2qUy4CQFqSCckJyndz3/QHFcLN7j6gti58uWtiIlsrUphZw24hQUo+TaAeAQQPQ9UUUveobN/MbDHnkoNQvwZ6S/p95uXc1FBcyVEPoHaE5OcAD0PwBVd9OZkm4a5KbvMXDCcJMQIKTJASTt6wckAY7PpRRT1Cjhn7ES69BWeS+8McdOxrddtY2i6OwGnIl1iqVHbdjlnxhJXncgEpK+O+iBnFFFFaFKrnqYnUWOCO/1P/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bad Apple!!</div>
-                                    <div class="artist">nomico</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGAwECB//EAC8QAAIBAwMDAQYGAwAAAAAAAAECAwAEEQUGIRITMUEWIlFxgaEUFSMyUmFzkZL/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACYRAAICAgEEAAcBAAAAAAAAAAECAAMEETEFEhORFCEjMkFRU3H/2gAMAwEAAhEDEQA/ALzdO4NXt9xajDb6jcRxJMVVVbAA+ApX7Ta36apdf9173ZHLLunVe1GXInPg0t/L7pSpkgkVGIGSvx8Y+NdNVXX412BxOByLr/K2mOtmNk1rckkaut/dqjAlXZ+MA4z/AL4/usPabXAT1apdfVq9yXF+QkNtbAQowaJejk9IwCefPvZ+ZpYbK7LBVt3Lefp6n70S11nlRAe60faxlFtncOrz7h06KbUbiSN51V1ZuCPhRS/a8MsO6NKEyFSZ1Iz6jxmipeeihx2j8S30q2w1HuJ5hu13TdOq9tmX9c5wcUvt7tUDd0Su3Ufe7hUirzW9rWOobju7m5mTokZgiAMmX9eVI6iMHzn7c4Sba0+GZ5rGW3j7pMYyGcZ9QoYnB+lbK8ynsVTveoq7ouUbGdeCZIi/hV8i2bp9AJmz555+XFYz3SvGvbWRJBwX7hORVhp+24Le2Mj3VsZHcRuWXq97+OPAPy4rSz2lp9hM1yWEkqHpbuMzIrHwCpOMkEcYIojl0KTzAHRcth85MbUkd906Z1lmxOvJOaK+haNa2kd3b9xLXvxSgF0jUNn0zgDBOaKmZV4tcECVcPp9uMhRv3JPc2j6/JuS7mtIdRMMdy80BT9oLDBI+dKfZ/ciLGsdvqiqknfUA8CTz1c+v2/qiinJkEKBoeomyt+8/Ub3Opt/cYjdPwuokPOLlv8AJ/LI5zXW0HcrPK5t9TzJKs7DAOXUYBoooviTz2j1A8b/ANG9xptfR9fh3FaS3VtfiKSeN7hnHDdHgtRRRWLJsLtvUoYikIdsT/s//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">きっと青春が聞こえる</div>
-                                    <div class="artist">μ's</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUEBgcCAwj/xAAvEAABAwMDAgUEAAcAAAAAAAABAgMRAAQFBhIhMUEUIlFhcQcTI0IVJTJSYrHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBBQb/xAAnEQACAgEDAgUFAAAAAAAAAAABAgADBBESIQUTIjFBUXEjcoGRsf/aAAwDAQACEQMRAD8AyLFg5XUdyLuVJaBBb/ugxHxTTV97bqFgca8l1duy4h5tvkh7dIAA7bNsK6cGKh2WLytnn7u9SwlLZnaVKBCpM9PT57VGwn59QWjTYVbJS8pK1iJ3lMJAn9QNo7z2pXHq2vvb0HAmj6pmiyjsoQdzHU+/PH4in7jSU7doQRAb8wPzPtFX3DZQ5iyUxcr3XNtbttpCh/W0kbfMfUDb17VOzehbZxnxNq44y6hJ3BDc+aJB4EgT6D4qLgdOuKxLay4q0fJ3JW24XEuoVElQMdp47H5pjIQW1lSJVdMy2wcpbVPAPPx6yo3zAxGpGEWhlLkEJP6yYI9xRTfJaVyo1M25Lb6EBJQUzKxMiExPP++KKqraX8Oo1Ok22D1HHHc7dgVSx0H6noG80Vj7l83SXFLKTuDQ2BJgzBgczWP/AFrw2Jw7n8sZ+w4opdC0phGzbtMRwYJTxA7zTfWmbyl9jbRvEodtk3DQccLYUVc/ru2wB3kGT7VSMjY6l1JlcUxklspQ48LO3Q4gS4AJUopHXr35JPvVsBt8RMwLFm+kB5TgnNant/4np24ffvnUs/blzy8KBghRAUQRBEnv0NTfpNhcpk8rc2do8/ZrQ2h9Qcb3NKZlQKiCZmQEiOvMniu24ynibTIXbdyxb3TbqVqYfIJuEkx145kdADA6Hikw1pcaezVw5iXm3Q/Zot0eHWQGt6g4QoGfMkqWIECeahbQ4O0wlmHZSQbB5zbNOWVq5lXLTLlbd1ZhRbWlW3kGFD47iis/0dnLnK27t8666bgPrQpxUBSvfpHeiibdedYAELqCJTb36kF1pbrdisvSB+Rz/nJpA7rjK35tGnlJact7gvMPsShxqQmQkz6oSZ6g9+aKKhgGGhkIxRtynmX3Grxa8StsY528LiVEOvqA8xJHlUoKV/luABJrM3bR46sFr4ZxguvhQbVyQCZ6jgjrRRQ3AVCRGMdjbeit7iWHD6luNPZS7tkNKumC8opt9kies8EH5FFFFDWxto+I/biVtdZ9x/s//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">KING</div>
-                                    <div class="artist">Kanaria</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgEECAP/xAAwEAACAQMDAwIEBQUBAAAAAAABAgMEBREABiESE0EHMRRRYXEiIzIzgRUWUlOhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHREBAQACAQUAAAAAAAAAAAAAAAECEQMSEyEyQf/aAAwDAQACEQMRAD8AxZNzUdj9LLbcUgUiOHsRw/7KjOPHPJ5P01H7G3zuZd3x2jd8CQ/FIzQKtOY2yAT+H/IYBHzzpZpuUvsamsK0wFRBUGqiqu5yrZJGFx/7q1bV3JT7h31t6t3JUmmlt9KYkdmAiMucDDZzyCeD586G/KnRdbpqJ6gWT86eV61UxGIyact3SzMoVVXJDdSMMEA50r/V/dtsvtFbvh6KsiImf86X8smPIB6R7+/PzHTg6sm4aBLHuWQ3CmlekqZpKiCRG6epP3JUTtgN1r2wVDN5JA1D+pG5qaq2/V0Vus6UtRVVSDupGJO83DFgyjBOGQ884Y+dFNEbZ23vSjopp6OB1hK9YSbADDHgHBJ+o0acu2zXptOkF27rVvw5MndQIwODxheMeB5x786NZnJayCGoRTlQqjGRrYqJnhdIiFwWxn5e/wDGtSlNTUNmmhMnSApwCc/fHtqUtNrnvR6p62ioKRDlpJpMD+PJP0A0unR3JZqGzujfFluu2tuStWzRTUcsbTxiIl0bpK9Ssfw5B+eeCfbVfN0ve479b51pEgs9slV6cyhadJ2XBYs36etgCeOMjGvKz0dqtvQaGC7bnqY3X9iHtUqscYBJBLHx40xhtW7X6Sg/uBKSkttN0zikiJdnYjBVjwFA+QGPvo7Syk+JzZVprqC1VTVt3/qEVQnchk7plDDBywJAwDxwMjOTnng1Ye1HTUQhgiWOGOMqiIMKoA4AA0aJXG9nuslBRVccEoHxSCKRGHgEEEc++foffWYaaRWjd2PRn9OOR9z7aNGhlVeLGWnb6dbpMOyK6mODPbuplycARt+IE/Y9Q1E7W9Uqw3bG4267bK2EkRcGI+M49x/0aNGtCcntToNZDPbGlhCkPGWUoc5XHB0aNGiV/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">吹雪</div>
@@ -324,10 +303,31 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYC/8QALRAAAQMCBAMGBwAAAAAAAAAAAQACAwQRBRITISIxMkFRYYGxwQYUUnGRofD/xAAZAQACAwEAAAAAAAAAAAAAAAAEBgEFBwL/xAAkEQABBAEDAwUAAAAAAAAAAAABAAIDBBEFEjEGEyEyQVGxwf/aAAwDAQACEQMRAD8Adv4ov3FQ0jS2LiZFGSb2jNx9+SgxeodT0l2GznnLfuQjIy94aPdaXbttq13WH8AJp00bTZ0jAfFwXXnt4LHE9t1e4FM90b4ng5W7tPsjJ6XbZuBzhLWk9UOvWRC+PAPBTVbHqPhtNpkOuBfq/h6oXFdO6GaENg1M1+K3SUIRuceEySOj3nd+qSkOnDl04o9+mI3Holcb46MH6XAqOhrqVkFnxiI36YbFvslcdxWmbROjiLzI8gAEDki4YXtlBwlrUdWrT03xB2SQkKeZscoLwHAm26v8NfmzusA3ksOKx2m8WC0Pw1ikHy0kVQZM4dmBAG480daj3MOB5S3olt1aZokdhgz9LQyOkJbpuDRfi27EJOasopDERJM0sdm2tv8AtCrBXf8ACcHa7Wz61QtAaLAAKqxNhFS15IILdh3IQrgcrPkoALnbYq3ooI2Ma+MmxbYX/JQhS7hSU0UIQuFC/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAv/EACwQAAEDAwQBAwMEAwAAAAAAAAECAwQABREGEiExE0FRYQcUIhUyQqFxcpH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQH/xAAiEQACAwABBAIDAAAAAAAAAAABAgADERIEISIxE0FRYYH/2gAMAwEAAhEDEQA/AMk+jdpkPOTrgplLcOPtC5LqApsHB/HnjPr8VfalsNmcYnXGDLeMp9KnUtlwbdpOSNvpwSe6m09bZtt0Pcrc635lyJzcuGCktqP4ncSOgMAdZHNS/UVF6it2/wC5/TnLcIqEpfiNlPJThQOffPv6cCuq3kAY21KpUdGkxH0zYUXKLaSw+hx56WWXIziOEAJzuzn8hgdYHPHVb/FYhacsMO12Zv7JmU4olAaK1FzjJKhnj5PAAArKNLOWiBb7e8Y7TMiNclyFygvaosePBQodYCsEHjvFO6/qB4tOvTG4qytElbPlbIU2oKwpKUn5TzjHB9eRS5rdt4yVWKhCsO8tEXpuOpiLNkW592elTUdmY4EofBGPyB/ieuueu6Ky+4OWDV+sYd4lXlMNthxrLD7KlKcQk7ing8YwRnBHIookTB5+5Y7O51V7Ru0TIb1I/cUTkurZRH+3bTHUlK9wwSEc5B+Bkc815euFoXa40TUAlsqt+5bkYsKPnKSQlOfjIycjr2NcNubvKZD8uPBh2diO4p7xNMhIWoYOwEglRwOifQECnCDbU3qREudwU/8AdISpSkJQCXCojbkHABx6D/NHYoq8mYS8EO2AZECXOg6gelx50GEhCX1gNslaFKSnbgZB5SQkdY+MGoZ1vsUbTLLUJmRGmElckRi5tUQDjhZIH+2BxmrGOBK1HcgVRdPuBgoUnzJJHIylSQcpJA9sfBo041FVOLynXnVo3POuJZ3hJzjjPScEYwTjgg0At+NS8VahWbjv9mfT7DdLdpqFfnJbKmZK9iUoI3JcyQQrPXvn/tFPeu3oT8RTTUFPkQFKbKVEqWrHJz+4En0/v2KlT/KvLIdlZrOCPd0mWtoiRqeUmLO2qUy4CQFqSCckJyndz3/QHFcLN7j6gti58uWtiIlsrUphZw24hQUo+TaAeAQQPQ9UUUveobN/MbDHnkoNQvwZ6S/p95uXc1FBcyVEPoHaE5OcAD0PwBVd9OZkm4a5KbvMXDCcJMQIKTJASTt6wckAY7PpRRT1Cjhn7ES69BWeS+8McdOxrddtY2i6OwGnIl1iqVHbdjlnxhJXncgEpK+O+iBnFFFFaFKrnqYnUWOCO/1P/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Bad Apple!!</div>
+                                    <div class="artist">nomico</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAjACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgMH/8QALRAAAQMEAQMDAwMFAAAAAAAAAQIDBAAFERIhBjFBE1FxFCIyByOhFRZCYbH/xAAaAQABBQEAAAAAAAAAAAAAAAAEAQIDBQYA/8QAIhEAAQQBBAIDAAAAAAAAAAAAAQACAxEEEiExQQWBEzJx/9oADAMBAAIRAxEAPwDN9XvzpDkaw9Pje1wtY7IbVn1tvydJ85Jzx28VR6Pjyul7YZ7rS1z5H+RmIZaZRg/dsckn458fNroElm0Ln73F36LLbeNU/uOIUVFOfOOck8cVX6pbtz9ri3BuM6wqDLaaVr9y3VYOE4HABBJ27bcVZuyD9elM2CNlc6kp1Ja0y3WrguDaXVaFWpfkZToAFE6jP8Y8jvSjUH+5HHoUWOoKcbIbkxZYdbaKCNUKQsBWuMcZxn3PNaZcO4twZSrg6pchEjd1wPDKWlDKU7KTkalGOO+vFOQkPwbjLvQhpW63HaWQonVaSRhSfJWD7nt80MMlwNAfinka0i3Gx2vIbNE6isN/FwjR0OONOaOJUr7ngrIUMHkjg/FFei3O5yHjDuMF65NykIWttzZspUlSglQUScDJUODjHeijDKX7uAtDjDY4XHdLlHlf0x15qxyEOtoP1EtT0MqW6jGMAKV3USoAAE4Hnmstebne3JE+d040GunHU+plaeNMk7ODGRhROP4yKrI6riOTY8h+C5FcTJTIUtlQVylJAxtyBjwD5NMdQ9ZOy4EOE0thNrkD0ZbSWtXGgFhY0GcEYSoA+MnPiqyw/a1pH4UuO7WY7v2slNVeJTENuV1rIauMuQY6Iy0u6IKVFBO4HfPHbJ96qzrR+ocCa9able3VW+PGck40Wpl4IBAGxH5EDtnv70v1BPivdZxHICi9b1uomqPpkKYc0KV447/alXHml/q2VzrK5Mucx8/TqelrI3cL+5X2Xx+Wp8jin/G2r1coZ2PJI4AR8Faq0XyKi0KtLsmPMs7sJpsMpiEL9TgqJWCFBSgM8g9vPkqOLsxDtqVQw+9JUQvd9I/bUlSjkkDBzse2OO9FMc8XsSrCDw8hbuK9qHGkOx9lMrKVFJSfPGR713TcJOfzScnblCTzj4ooodaWRoLuEi6+tc9K1FOx7nUf7rqsheuyUHVJwdRxyKKKU9LgAu8x5xAYZSrDXooOoHkjJ/6aKKKalbwv/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">僕らは今のなかで</div>
+                                    <div class="artist">μ's</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYC/8QALBAAAQQBAwIEBQUAAAAAAAAAAQACAxEEBRIhEyIxMlFhBhSBscFBUnGR8P/EABkBAAIDAQAAAAAAAAAAAAAAAAQGAQUHAv/EACQRAAEEAQMDBQAAAAAAAAAAAAEAAgMEEQUSMQYTITJBUYGh/9oADAMBAAIRAxEAPwB2/dF+hUOI0ti7o4oyTdRmx/PgFBq+Q7HwyWGnPO2/RCMjL3ho91pdu22rXdYfwAmnTRtNOkYD7uC6+vHssdf62r3QpnujfE+9rOWn8Iyel22bgc4S1pPVDr1gQvjwDwU1mx9R0NTdMh1gX5v8PuhcZ07oZoQ2Dqbr7q8pQhBux4TJI6Ped3P2pMQ9OHb04o+fLEbH2Sut9+ED+1wKjwc7FZBT2CI35YaLfwldd1XFbhOjiLzI8gAGvBFwwvbKDhLWo6tWnpviDskhIY8zY5QXgOBNcq/01+7e4ABvgsOMx3TeKC0Pw1qkHyz4sjqbw7cCK5H1R1qPcw4HlLeiW3VZmiR2GDJ/FoZXyEt6bg1t91+iEnNmYUjoyJJm7HbuAOUKsFd/wnB2u1s+tULQGigAFVamwjJa8kEFvA9EIVwOVnyUAFnjgq3woI2Ma+Mmi2hf9lCFLuFJTRQhC4UL/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">夜に駆ける</div>
                                     <div class="artist">YOASOBI</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAMEBQYHAQII/8QALBAAAQMDBAEEAgAHAAAAAAAAAQIDBAAFEQYSITFBBxNRgSIjFDJSkbHB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAcEQEBAAMAAwEAAAAAAAAAAAABAAIRIRIxQVH/2gAMAwEAAhEDEQA/APMgHOPNclHCu8inEV9KELS5kg9YFJFefcz2aMqSespJbcjPIUy4nf8AkrlAwc7vsEUxRFW5IUw0n3HPG3nOPirNpXRF/wBTWW4zrY0VRYCAV7nAgHs4GSMns4FdtCrdtWqrJd3WYr0VT4GHlJKf6TuHODzkZHxU3+V1VV6M8wf3NLbO3dhQxx1RVo9TEzkapnLmQmorTrq1spZSUt7CokbQQDjnyBRVPVHlKaA9Mpmr9M3i7R5sZhUJQbbjuZ3vLxu8dDHAJ81TodqkPT2YziFNFxSU7ljAGf8AlbvpZ+/6PdbsjcZq2qvsUyEKkAHbxtSSkHOef5TjwceKx6/xpdnuS4d2QpExl8qLvkjo8/QP3QHurTLEDZaZZ9Ry9M+mt/sakb/deW3DffwGmklO1Sk5JOSSrAx5JzWYsQHbXLDKpER9yTHO5Dat4aKhkAnrdjnjqlbxdXP3RPYcLDIU2C4d21Wck5+TgfVQ1qIU+0FLKE5IyPg0wDsFXk71DcJ854fx7pcW2yhBJV2lPX+aKVmxHnosl6MFPAfgdiNx25znjocUV0vDJ7WG7+oNy1DqaNMuAEZttxWxCSNze4AHKsZJ489eBUTqu8y71c2nLsVSn/cPBP5KHCR0OiB/uiipoNUclln5MWEw8l+O6qYshTiXcAo4GeCOarUl5tuYl2KktoSQQAef70UUo/axWG7zotsnvWm8ogLaHuKhODPv+CUnGPo80UUUE7bY8L//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Magia</div>
+                                    <div class="artist">Kalafina</div>
                                 </div>
                             </div>
                         </div>
@@ -478,7 +478,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        982
+                                        984
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2022, 15:25:49  with lowlighter/metrics@3.27.0-beta</span>
+                <span>Last updated 2 Aug 2022, 16:36:04  with lowlighter/metrics@3.27.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
