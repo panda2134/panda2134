@@ -303,10 +303,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQGBQIDCP/EACsQAAIBAwMCBgICAwAAAAAAAAECAwQFEQASIRNBBhQiMWFxUaGBkRVC0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMREiExE1H/2gAMAwEAAhEDEQA/APQ9cKyWvqrVTJE1M9OJXeZ33HezBgDn4z+tQlU0VJSwnyTeUqWBYSM2Y5kwrJnIzyzAZHY/xr3y83uDxNRColgisz0zJVU6L1Mv6wcencednIIAAbIOdPVV7g/wghoispwNqunpyD+c8c85OfnSrmASb83pmNTX64k096a5B6N6oQNAWA4JwMKPj+e+qZvEaUpq6UxzG4dVumjqQG3E7cfAGNTVtpaqps9QTbY3InOw9MRmHPO4ZwCAe4112G4GjnSSr6tVPtbpSSNkIPcHnk5P51Pjo9lFF8lUZrlaY4Kho1qjK+asljujQDPpH5xk6NOWGshraueULItQ4yQWym0YAxo1tE1rUnbe5KeInqpJ4DOsqzNCGbLBgpJ5C8frn7Op23xVtVdfIyQrT1EmWhkOVSZRz7dz9atPGhQVcDKAq9LJOMdzpSomiuVgWWTeKu3SI0TKvO08H6yMj7AOpWDe5UUrJG7+O2qJ46GGsr4RHGUaWGMe659SggHGOx+zjXC3tBLRx+VimdmwHlcgspzzyTjP1nWj4ltc1RVxVdRFvgSdKdWC7eqrb92cdiTyfxpC/KJLmJlp4uhTiNp1VAG3Nn2wMhVGM/k/GrZOAHEhx7VGVXhOcCrrlhMymWPZ1l/1bIGc4wP6OjTPhGaCK4OtQwiDx7EGfSTnPB/7o0Bf2ZY78jl+tdwuL0zzSU1LIwaJVyWy2SV/WT8Y99YV1stWm+h3SKJ3WINFkblYgH1fBIz8aNGhas2qywa1VUVsMAqVbZThF3JkBx3/AK41LxWGXiq8xCY2CMz7TnYwwrc9h7fA+tGjSTsmCzdtFj8lvMrw1FNNHt2gbgQTn6xo0aNIqQtmf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAKhAAAgEEAQMDBAIDAAAAAAAAAQIDBAURIQAGEjEiQVETIzJhcZEUFeH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACoRAAEEAQEHAgcAAAAAAAAAAAEAAgMEESEFEhMiMUFRBhRxgZGhwfDx/9oADAMBAAIRAxEAPwChkrxR1kVKVMrlPUS2lz47t/P98iOqpKmqo3WWOEFarzDKZF7VXY/sjfKxFq6m4T3OliyYHSJvqDuSdACXyPYgkDPj9839VxR3a02KaltjRww1SrMY4T3oFGJCVXRGe3WjnGMnkLZkR4u84jC0w1GR1w5zNT5S/oawT1fU89Pe0lgknRZ/owudgekBgM9o/E7wR84PKzqO1tRUSR2C41NKKqf/ABp0LmRQpXJfB2CusgEA8oKKW411THc4KMUix/bMldEYCyYAYHOGP492SN+PHFdZc3iucdxstP8A7KamDRxvDKpDxkgPiMHwCo9Wf55qsUhJK2QaAdUyAbpJaOq8ooqm5WC6Gju/1JKKaRo46hgTkhipIzsjII/XDm2Y3TqXqVIa2tSgpUkMi01RIRGCG7gmDnBIOcnW9a4cXYgge/JB+SRaqQwuHFBJIzoqXpuaejvTU9JSLXQxkTPiZR2KRsMGIGPfPOF36pltdylqAtTW0rp3LSOvZAzjtKurqCoOV/EHeeTPVxeSaijkqmSCplWNpFfCooI8r4Ovc8tb11BbrjZ7TR06SPc5QFpw8eMqufugE5AJwQDsa9s8dVixWEn7om1rkkrGg9xj8KOreuep55Zq2vtiUtBPA1OiShmUhickHIIbGv4+eMaK7Gxql9scixO1NHTrbFhZmiQH1ZYjLDRPcB5znlvVVUPT1DBJHTTVirCTPTzLgqDr7hJPqJBI1jGRzlKLXe7LCzKI5n+/MAvqTEfgODveRk+xxw2zEjnPMPCqe4YyERsbr5Pf4heW3m7XC79UUgkoZo45hExkYZaXx3Nn2GvcaHDja1TSvVyRpUJUU6llWZSW0DgDJ9/n2+OHJs9jDui5vaViXjbruyVV9kqa6zlkr4u95ciGQglD269Wjj9/95ns/TlTb6sVrV0TVkcbJEVl0D8nP8Y154cOXdwCMxjouzbsOqw4aDofKpIRdb3WwUlwuKCIgtUSoc9saHJOSfge/wCvnjCZbb9QR2+sliSSKSVvrSfURSc4QAjRHyNknWgOHDiI6cTDyhPs7Pily050A+/8SykqaajkBhQfiFyqa/ZwTw4cOA+hC45KF3puk/BcD9V//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">六兆年と一夜物語</div>
-                                    <div class="artist">鹿乃</div>
+                                    <div class="name">僕らは今のなかで</div>
+                                    <div class="artist">μ's</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBAYHAgX/xAAwEAABAwIFAQcBCQAAAAAAAAABAAIDBBEFBhIhMQcTFEFRgZThFyIlMlVhZXGR8P/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAIFBv/EACARAQADAAEDBQAAAAAAAAAAAAEAAgMRBBIxExQhUWH/2gAMAwEAAhEDEQA/ANZr6+KiLO1ZO4PvvHEX2/my4w/E4a6R7Io6hhYLntIi0ehPKkyMY43c1pI8wkYxjHXa1oJ8hZIzqeGPEm36JmQrsn/XTciksE8zvbJK+opWxzh8DWOc90ZDHar20uOzjtuBwhPy8oVGHqPEnnkpAqdmrONHlnNVDTYxWRUmHVFFNKHPbzK17Lbjf8Jdt4qDh3VjKlTHTOlxWCJ0zWXDgRocQb38hsP7RO18xR2oPC/M0DwTTyqk/qbk+OlbPJjtI1ro2yht7us69hYb3Gk3HhtfkLysP6n5TdM6mjxiDVLM9zHvBa37UpFiSNtje5sLeqna/UhtmPkl3lO6FXsCzXhWY6+WPBa2Kqjhi1SaAbsdqsL+l0IaIxqlixySo9den+NZ2rMIlwXuumljkbJ20ug3cQRbbfhZYOg2cePu33PwhCPXRAJna9Hnpdsw+gucf233PwkPQbOI/Lvc/CEK3q2gvYZfs0ropkHGcl1eLSYz3bTVMjbH2MuvdpJN9tuUIQl72V5Zq9NlXPMrWf/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">夜に駆ける</div>
+                                    <div class="artist">YOASOBI</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -314,13 +321,6 @@
                                 <div class="infos">
                                     <div class="name">KING</div>
                                     <div class="artist">Kanaria</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGAwECB//EAC8QAAIBAwMDAQYGAwAAAAAAAAECAwAEEQUGIRITMUEWIlFxgaEUFSMyUmFzkZL/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACYRAAICAgEEAAcBAAAAAAAAAAECAAMEETEFEhORFCEjMkFRU3H/2gAMAwEAAhEDEQA/ALzdO4NXt9xajDb6jcRxJMVVVbAA+ApX7Ta36apdf9173ZHLLunVe1GXInPg0t/L7pSpkgkVGIGSvx8Y+NdNVXX412BxOByLr/K2mOtmNk1rckkaut/dqjAlXZ+MA4z/AL4/usPabXAT1apdfVq9yXF+QkNtbAQowaJejk9IwCefPvZ+ZpYbK7LBVt3Lefp6n70S11nlRAe60faxlFtncOrz7h06KbUbiSN51V1ZuCPhRS/a8MsO6NKEyFSZ1Iz6jxmipeeihx2j8S30q2w1HuJ5hu13TdOq9tmX9c5wcUvt7tUDd0Su3Ufe7hUirzW9rWOobju7m5mTokZgiAMmX9eVI6iMHzn7c4Sba0+GZ5rGW3j7pMYyGcZ9QoYnB+lbK8ynsVTveoq7ouUbGdeCZIi/hV8i2bp9AJmz555+XFYz3SvGvbWRJBwX7hORVhp+24Le2Mj3VsZHcRuWXq97+OPAPy4rSz2lp9hM1yWEkqHpbuMzIrHwCpOMkEcYIojl0KTzAHRcth85MbUkd906Z1lmxOvJOaK+haNa2kd3b9xLXvxSgF0jUNn0zgDBOaKmZV4tcECVcPp9uMhRv3JPc2j6/JuS7mtIdRMMdy80BT9oLDBI+dKfZ/ciLGsdvqiqknfUA8CTz1c+v2/qiinJkEKBoeomyt+8/Ub3Opt/cYjdPwuokPOLlv8AJ/LI5zXW0HcrPK5t9TzJKs7DAOXUYBoooviTz2j1A8b/ANG9xptfR9fh3FaS3VtfiKSeN7hnHDdHgtRRRWLJsLtvUoYikIdsT/s//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">僕らは今のなかで</div>
-                                    <div class="artist">μ's</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -478,7 +478,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        999
+                                        1k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2022, 04:20:46  with lowlighter/metrics@3.27.0-beta</span>
+                <span>Last updated 3 Aug 2022, 05:44:35  with lowlighter/metrics@3.27.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
