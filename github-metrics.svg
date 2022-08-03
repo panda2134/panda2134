@@ -296,10 +296,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACQDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMEB//EADEQAAEDAwMCBQIEBwAAAAAAAAECAwQABREGEiExQQcTFCJRMmEVFkJSYmNzgaLS4v/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAECA//EACYRAAEDAwMCBwAAAAAAAAAAAAEAAgMEERIFITETQRQiMlFSYeH/2gAMAwEAAhEDEQA/AH0TwqRIeQ2L2AVfyf8Aqu6R4R2+Etv1mqmWio+0ORwM/wCfSrC3Bxp9C2Gg66kFSGyrG5WDgZ7c96k3LTdLnqO4sw1NuelKfUKcVkoWpIUoADrzkCjqjUaiMeUqU1JFKbO2Su76Q0u1CbkP6tiMNKcUhPlwTuUU8HCQrJA+cYrNjwvt0y1t3C26mblRVnaFpj45+DlWQfsaTt2n826ig2gSUtLVHcW262QdoSog5HcZBVgdc9qrtD2eTYF6itDjyX40dxk+ZuyVOFOTx0HBBx192OcVUOoTm1yqmpY2EgbpEfDFAPF4SR/RH+1FWrjXvPFFF+Lm+SG6LfZMoLwZfQ8ohIbSpZJ6DCSanbDartLuDFz1BJcYcnMq3Q23A2qSEpKgCAQoA47ZyPisdbTfQ6cdSlaUOSiIySewXwo8fw5qG9E/PVGej3SUL/7G2XFBZUhYwBhQ4xjp0pdV4houeUfRxl+RtsAqTTL8e/XKbbPJEVbaFPQHIjAacilGTwQfaD9JBzknmt+nXGrPdnYbReZYmkF1uWAHjJ5JJI5USB3rhs+qLxb9ToY1i1FUlvclT6I6PM3JIyFKb7EdiMHikPjC9MnXRGpLdKZMM+WiMhLg81LreSco68gZz/aswQuDgAb/AGt1M8bySGY8L1Nz6qK54Lq5EGM86na440laknjBIyaKKuhbLXqKzvXFIcdt6VxIyt6WvP2vFWMZScbcYPQ9aUmyL0lH9dcEtuocSorfCypyJn9iT7SQO4APX7UUUrlcS7dNqSRwaGDgqSs0W0rtcr8WuqTJfmJfQ+kqWpaNp3JAP6iSOvfFPFaNblxkyE2ea9Fc2pQHJyAUnOMk7cgZ+KKKYmZ0ELcO/wCJfNGJZn5dlZQFMwYbMW4sSPVNJCFls70nHQggc8YoooqhwuD/AFFf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQGBQIDCP/EACsQAAIBAwMCBgICAwAAAAAAAAECAwQFEQASIRNBBhQiMWFxUaGBkRVC0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMREiExE1H/2gAMAwEAAhEDEQA/APQ9cKyWvqrVTJE1M9OJXeZ33HezBgDn4z+tQlU0VJSwnyTeUqWBYSM2Y5kwrJnIzyzAZHY/xr3y83uDxNRColgisz0zJVU6L1Mv6wcencednIIAAbIOdPVV7g/wghoispwNqunpyD+c8c85OfnSrmASb83pmNTX64k096a5B6N6oQNAWA4JwMKPj+e+qZvEaUpq6UxzG4dVumjqQG3E7cfAGNTVtpaqps9QTbY3InOw9MRmHPO4ZwCAe4112G4GjnSSr6tVPtbpSSNkIPcHnk5P51Pjo9lFF8lUZrlaY4Kho1qjK+asljujQDPpH5xk6NOWGshraueULItQ4yQWym0YAxo1tE1rUnbe5KeInqpJ4DOsqzNCGbLBgpJ5C8frn7Op23xVtVdfIyQrT1EmWhkOVSZRz7dz9atPGhQVcDKAq9LJOMdzpSomiuVgWWTeKu3SI0TKvO08H6yMj7AOpWDe5UUrJG7+O2qJ46GGsr4RHGUaWGMe659SggHGOx+zjXC3tBLRx+VimdmwHlcgspzzyTjP1nWj4ltc1RVxVdRFvgSdKdWC7eqrb92cdiTyfxpC/KJLmJlp4uhTiNp1VAG3Nn2wMhVGM/k/GrZOAHEhx7VGVXhOcCrrlhMymWPZ1l/1bIGc4wP6OjTPhGaCK4OtQwiDx7EGfSTnPB/7o0Bf2ZY78jl+tdwuL0zzSU1LIwaJVyWy2SV/WT8Y99YV1stWm+h3SKJ3WINFkblYgH1fBIz8aNGhas2qywa1VUVsMAqVbZThF3JkBx3/AK41LxWGXiq8xCY2CMz7TnYwwrc9h7fA+tGjSTsmCzdtFj8lvMrw1FNNHt2gbgQTn6xo0aNIqQtmf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">ロマンティッククルージン</div>
-                                    <div class="artist">スタァライト九九組</div>
+                                    <div class="name">六兆年と一夜物語</div>
+                                    <div class="artist">鹿乃</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUEBgcBAgP/xAAvEAABAwMDAgUDAwUAAAAAAAABAgMEAAURBhIhMUETIlFhcQcykRQVgUKxwdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAABQYCAwQH/8QAJxEAAgIBAwMDBQEAAAAAAAAAAQIDBAARITEFQXESEyIjUWGBkfD/2gAMAwEAAhEDEQA/AKPbdN6j0zKVKaQpLCXkMP7OSOOpHXv1rS9KuXjWDL1tvMZLdvbRy9jlfPlwR1NTb1fXYj00RoRVDSne68ckOeX1PxipWkdQW+LaGXW8IjuryrnPhk+vtXM7N2WzGJJIx6ttCP8Ac4+egxRfAb9vxmV6y0dOj3cR4TbzzRPJUcIT7Jya4vunYtgatyXIKpL0pWxtBVyfXJPFalqy+Nfv0WAu1yXVrHiIfSfIkAdT6Jyec4rGvqnMucrU6221gpZAcaaKsbeOSMH260U6XYsWnjjl2XTXzmaawyxmSNfl/cUy9Pt3aAt61tFL5cKUt5+3BwUgfP5ortYZzsSI1FbdC0ORxICjwpvJ6Z79e/PSijkktmBiinbJVqda/GJmGh7+c1+O1dEaWcg6hw5NfjjaywN3hkDgkCqh9P8AVK7dcDa7qlhiOB5N7eClXPBP+6dX7WEiBKjS21KCi0AtKQDu5IqsXO7WG6w4km4RFMymJS/Gx9zjSjkZA+4ZV/il2pWZ42EqfF/t2PjNUqNEoB7841b1BFnW6fGjzHW5DcltTZcWvO3ODk4wrO7pnt2ArNHNTXuXc3IiZMVLwcUUuqbRwEjO3JSTgjP81ATdFw5pkxHUGMh9xTbLyvMpI7KUOp6devHWvFmGmZcRPYkhtDu5TpSQVIJOMAH1pmp1FrEk8HF+y5nAWLnXG1zm3W7xmm4iluu7iV5Sny444OBxxRTjS36dUYOQHFuJBJd3DnJ/745oqMl0xsVAH7wrB0wSxh2Yjwdsd3e4QLvFiuRFIXuQUq2DorJ7en9qzi46efgvLlTHnUgKI25Oce57UUVVV+g/tJxltuJZ64kfkDXGf7jI05aFwtjL7MjCy4kb85HcHHfH4/NVUWnFhZU6lQSPMEJwf4z2oootXUBS+m5xb6gxWX2wdhl00rcIUC2NqfeS3/TlWRn5xRRRWKWqkjljhRL8sUaqunGf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">U.N.オーエンは彼女なのか?</div>
+                                    <div class="artist">ZUN</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgEECAP/xAAwEAACAQMDAwIEBQUBAAAAAAABAgMEBREABiESE0EHMRRRYXEiIzIzgRUWUlOhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHREBAQACAQUAAAAAAAAAAAAAAAECEQMSEyEyQf/aAAwDAQACEQMRAD8AxZNzUdj9LLbcUgUiOHsRw/7KjOPHPJ5P01H7G3zuZd3x2jd8CQ/FIzQKtOY2yAT+H/IYBHzzpZpuUvsamsK0wFRBUGqiqu5yrZJGFx/7q1bV3JT7h31t6t3JUmmlt9KYkdmAiMucDDZzyCeD586G/KnRdbpqJ6gWT86eV61UxGIyact3SzMoVVXJDdSMMEA50r/V/dtsvtFbvh6KsiImf86X8smPIB6R7+/PzHTg6sm4aBLHuWQ3CmlekqZpKiCRG6epP3JUTtgN1r2wVDN5JA1D+pG5qaq2/V0Vus6UtRVVSDupGJO83DFgyjBOGQ884Y+dFNEbZ23vSjopp6OB1hK9YSbADDHgHBJ+o0acu2zXptOkF27rVvw5MndQIwODxheMeB5x786NZnJayCGoRTlQqjGRrYqJnhdIiFwWxn5e/wDGtSlNTUNmmhMnSApwCc/fHtqUtNrnvR6p62ioKRDlpJpMD+PJP0A0unR3JZqGzujfFluu2tuStWzRTUcsbTxiIl0bpK9Ssfw5B+eeCfbVfN0ve479b51pEgs9slV6cyhadJ2XBYs36etgCeOMjGvKz0dqtvQaGC7bnqY3X9iHtUqscYBJBLHx40xhtW7X6Sg/uBKSkttN0zikiJdnYjBVjwFA+QGPvo7Syk+JzZVprqC1VTVt3/qEVQnchk7plDDBywJAwDxwMjOTnng1Ye1HTUQhgiWOGOMqiIMKoA4AA0aJXG9nuslBRVccEoHxSCKRGHgEEEc++foffWYaaRWjd2PRn9OOR9z7aNGhlVeLGWnb6dbpMOyK6mODPbuplycARt+IE/Y9Q1E7W9Uqw3bG4267bK2EkRcGI+M49x/0aNGtCcntToNZDPbGlhCkPGWUoc5XHB0aNGiV/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">吹雪</div>
+                                    <div class="artist">西沢幸奏</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -307,20 +321,6 @@
                                 <div class="infos">
                                     <div class="name">僕らは今のなかで</div>
                                     <div class="artist">μ's</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGAwECB//EAC8QAAIBAwMDAQYGAwAAAAAAAAECAwAEEQUGIRITMUEWIlFxgaEUFSMyUmFzkZL/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACYRAAICAgEEAAcBAAAAAAAAAAECAAMEETEFEhORFCEjMkFRU3H/2gAMAwEAAhEDEQA/ALzdO4NXt9xajDb6jcRxJMVVVbAA+ApX7Ta36apdf9173ZHLLunVe1GXInPg0t/L7pSpkgkVGIGSvx8Y+NdNVXX412BxOByLr/K2mOtmNk1rckkaut/dqjAlXZ+MA4z/AL4/usPabXAT1apdfVq9yXF+QkNtbAQowaJejk9IwCefPvZ+ZpYbK7LBVt3Lefp6n70S11nlRAe60faxlFtncOrz7h06KbUbiSN51V1ZuCPhRS/a8MsO6NKEyFSZ1Iz6jxmipeeihx2j8S30q2w1HuJ5hu13TdOq9tmX9c5wcUvt7tUDd0Su3Ufe7hUirzW9rWOobju7m5mTokZgiAMmX9eVI6iMHzn7c4Sba0+GZ5rGW3j7pMYyGcZ9QoYnB+lbK8ynsVTveoq7ouUbGdeCZIi/hV8i2bp9AJmz555+XFYz3SvGvbWRJBwX7hORVhp+24Le2Mj3VsZHcRuWXq97+OPAPy4rSz2lp9hM1yWEkqHpbuMzIrHwCpOMkEcYIojl0KTzAHRcth85MbUkd906Z1lmxOvJOaK+haNa2kd3b9xLXvxSgF0jUNn0zgDBOaKmZV4tcECVcPp9uMhRv3JPc2j6/JuS7mtIdRMMdy80BT9oLDBI+dKfZ/ciLGsdvqiqknfUA8CTz1c+v2/qiinJkEKBoeomyt+8/Ub3Opt/cYjdPwuokPOLlv8AJ/LI5zXW0HcrPK5t9TzJKs7DAOXUYBoooviTz2j1A8b/ANG9xptfR9fh3FaS3VtfiKSeN7hnHDdHgtRRRWLJsLtvUoYikIdsT/s//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">きっと青春が聞こえる</div>
-                                    <div class="artist">μ's</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQGBQIDCP/EACsQAAIBAwMCBgICAwAAAAAAAAECAwQFEQASIRNBBhQiMWFxUaGBkRVC0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMREiExE1H/2gAMAwEAAhEDEQA/APQ9cKyWvqrVTJE1M9OJXeZ33HezBgDn4z+tQlU0VJSwnyTeUqWBYSM2Y5kwrJnIzyzAZHY/xr3y83uDxNRColgisz0zJVU6L1Mv6wcencednIIAAbIOdPVV7g/wghoispwNqunpyD+c8c85OfnSrmASb83pmNTX64k096a5B6N6oQNAWA4JwMKPj+e+qZvEaUpq6UxzG4dVumjqQG3E7cfAGNTVtpaqps9QTbY3InOw9MRmHPO4ZwCAe4112G4GjnSSr6tVPtbpSSNkIPcHnk5P51Pjo9lFF8lUZrlaY4Kho1qjK+asljujQDPpH5xk6NOWGshraueULItQ4yQWym0YAxo1tE1rUnbe5KeInqpJ4DOsqzNCGbLBgpJ5C8frn7Op23xVtVdfIyQrT1EmWhkOVSZRz7dz9atPGhQVcDKAq9LJOMdzpSomiuVgWWTeKu3SI0TKvO08H6yMj7AOpWDe5UUrJG7+O2qJ46GGsr4RHGUaWGMe659SggHGOx+zjXC3tBLRx+VimdmwHlcgspzzyTjP1nWj4ltc1RVxVdRFvgSdKdWC7eqrb92cdiTyfxpC/KJLmJlp4uhTiNp1VAG3Nn2wMhVGM/k/GrZOAHEhx7VGVXhOcCrrlhMymWPZ1l/1bIGc4wP6OjTPhGaCK4OtQwiDx7EGfSTnPB/7o0Bf2ZY78jl+tdwuL0zzSU1LIwaJVyWy2SV/WT8Y99YV1stWm+h3SKJ3WINFkblYgH1fBIz8aNGhas2qywa1VUVsMAqVbZThF3JkBx3/AK41LxWGXiq8xCY2CMz7TnYwwrc9h7fA+tGjSTsmCzdtFj8lvMrw1FNNHt2gbgQTn6xo0aNIqQtmf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">六兆年と一夜物語</div>
-                                    <div class="artist">鹿乃</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2022, 09:23:20  with lowlighter/metrics@3.27.0-beta</span>
+                <span>Last updated 3 Aug 2022, 10:27:38  with lowlighter/metrics@3.27.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
