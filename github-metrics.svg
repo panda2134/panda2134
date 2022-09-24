@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1000" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="795" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -284,52 +284,14 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
-                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field">
+                        <div class="field error">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                             </svg>
-                            From Apple Music
-                        </div>
-                        <div class="tracklist">
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAKhAAAgEEAQMDBAIDAAAAAAAAAQIDBAURIQAGEjEiQVETIzJhcZEUFeH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACoRAAEEAQEHAgcAAAAAAAAAAAEAAgMEESEFEhMiMUFRBhRxgZGhwfDx/9oADAMBAAIRAxEAPwChkrxR1kVKVMrlPUS2lz47t/P98iOqpKmqo3WWOEFarzDKZF7VXY/sjfKxFq6m4T3OliyYHSJvqDuSdACXyPYgkDPj9839VxR3a02KaltjRww1SrMY4T3oFGJCVXRGe3WjnGMnkLZkR4u84jC0w1GR1w5zNT5S/oawT1fU89Pe0lgknRZ/owudgekBgM9o/E7wR84PKzqO1tRUSR2C41NKKqf/ABp0LmRQpXJfB2CusgEA8oKKW411THc4KMUix/bMldEYCyYAYHOGP492SN+PHFdZc3iucdxstP8A7KamDRxvDKpDxkgPiMHwCo9Wf55qsUhJK2QaAdUyAbpJaOq8ooqm5WC6Gju/1JKKaRo46hgTkhipIzsjII/XDm2Y3TqXqVIa2tSgpUkMi01RIRGCG7gmDnBIOcnW9a4cXYgge/JB+SRaqQwuHFBJIzoqXpuaejvTU9JSLXQxkTPiZR2KRsMGIGPfPOF36pltdylqAtTW0rp3LSOvZAzjtKurqCoOV/EHeeTPVxeSaijkqmSCplWNpFfCooI8r4Ovc8tb11BbrjZ7TR06SPc5QFpw8eMqufugE5AJwQDsa9s8dVixWEn7om1rkkrGg9xj8KOreuep55Zq2vtiUtBPA1OiShmUhickHIIbGv4+eMaK7Gxql9scixO1NHTrbFhZmiQH1ZYjLDRPcB5znlvVVUPT1DBJHTTVirCTPTzLgqDr7hJPqJBI1jGRzlKLXe7LCzKI5n+/MAvqTEfgODveRk+xxw2zEjnPMPCqe4YyERsbr5Pf4heW3m7XC79UUgkoZo45hExkYZaXx3Nn2GvcaHDja1TSvVyRpUJUU6llWZSW0DgDJ9/n2+OHJs9jDui5vaViXjbruyVV9kqa6zlkr4u95ciGQglD269Wjj9/95ns/TlTb6sVrV0TVkcbJEVl0D8nP8Y154cOXdwCMxjouzbsOqw4aDofKpIRdb3WwUlwuKCIgtUSoc9saHJOSfge/wCvnjCZbb9QR2+sliSSKSVvrSfURSc4QAjRHyNknWgOHDiI6cTDyhPs7Pily050A+/8SykqaajkBhQfiFyqa/ZwTw4cOA+hC45KF3puk/BcD9V//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">僕らは今のなかで</div>
-                                    <div class="artist">μ's</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAv/EACwQAAEDAwQBAwMEAwAAAAAAAAECAwQABREGEiExQQcTYRQiURUycaFCcpH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQH/xAAhEQACAwABBAMBAAAAAAAAAAABAgADERIEEyExIkFRgf/aAAwDAQACEQMRAD8AyT0btMh5ydcFMpRDj7QuS6kFsHB+3njPn4q+1LYbM4xOuMGW8qU+lTqWisbdpOSNvjgk91Np62zbboe4251v3lyJyJcMKSW1H7TuJHQGAOsjmpfUVF6it2/6n9OXbUxUJS/EbKeSnCgc/nP58cCuqx5AGNtSqVHRpMR9M2FFyi2ksPoceelllyM4jhACc7s5+4YHWBzx1W/RWIWnLDDtdmb+iZkuKJQGitRc4ySoZ4+TwAAKynSzlogQLe8Y7TMiNclyFygvaose3goUOsBWCDx2RTur1A9rTr0xuKveiStn3WyFNqCsKSlJ+U84xwfPIpdq3beMlVioQrDzLRF6bjqYizZFvednpU1HamOBKHwRj7gf8T11z0OaKy+4OWDV+sYd4lXlMNEdxrLD7KlKcQk7injrGCM4I5FFEigD5+5Y7O51V8Ru0RIb1I/cUTkurZRH+nbTHUlK9wwSEc5B+Bkc84ry7cLQu1RYmoEy2VW/ctyMWFH3ykkJTn4yMnI6/Brhtzd5TIflx4MOzsR3FPey0yEhahg7ASCVHA6J8AgU4Qbam9SIlzuCn/qkJUpSEoBLhURtyDgA48D+aOxRX8mIl4IdsAIiBLnQdQPS482DCQhL6wG2d6FKSnbgZB5SQkdY+MGoZ1vsUbTLLUJmRGmZK5IjFzaogHHCyQP9sDjNWMcCVqO5Aqi6fcDBQpPupJHIylSQcpJA/GPg0abaiqnF5Tzzq0bnnXEs7wk5xxnpOCMYJxwQaAW9tS8VagM3Hf7M9n2G6W7TUK/OS2VMyV7EpQRuS5kghWej5z/2inzXb0J+IppuAj3EBSmylRKlqxyc/uBJ8f3RUqfurzh2V9s4I93SZa2sSNTykxZ21SmXAogLUnJyQnKd3Pf9Y4rhZvce/wBsXPly1sREtlalMLOG3EKClHftGeAQQPB6oope9Q2b+xtWPPJQagfgz0l/T7zcu5rKPcyVEPoHaE5OcADwf4FV3pxMk3DXJTd5a4YTgGIEFJkgJJ29YPIAx2fFFFPdOo4Yf0RLr0FZ5L7yOOnY1uu2sbRdHYDTkS6xVKjtuxyz7YSV53IBKSvjvopGcUUUVoUquephdTc4Iw/U/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bad Apple!!</div>
-                                    <div class="artist">nomico</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUEBgcCAwj/xAAvEAABAwMDAgUEAAcAAAAAAAABAgMRAAQFBhIhMUEUIlFhcQcTI0IVJTJSYrHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBBQb/xAAnEQACAgEDAgUFAAAAAAAAAAABAgADBBESIQUTIjFBUXEjcoGRsf/aAAwDAQACEQMRAD8AyLFg5XUdyLuVJaBBb/ugxHxTTV97bqFgca8l1duy4h5tvkh7dIAA7bNsK6cGKh2WLytnn7u9SwlLZnaVKBCpM9PT57VGwn59QWjTYVbJS8pK1iJ3lMJAn9QNo7z2pXHq2vvb0HAmj6pmiyjsoQdzHU+/PH4in7jSU7doQRAb8wPzPtFX3DZQ5iyUxcr3XNtbttpCh/W0kbfMfUDb17VOzehbZxnxNq44y6hJ3BDc+aJB4EgT6D4qLgdOuKxLay4q0fJ3JW24XEuoVElQMdp47H5pjIQW1lSJVdMy2wcpbVPAPPx6yo3zAxGpGEWhlLkEJP6yYI9xRTfJaVyo1M25Lb6EBJQUzKxMiExPP++KKqraX8Oo1Ok22D1HHHc7dgVSx0H6noG80Vj7l83SXFLKTuDQ2BJgzBgczWP/AFrw2Jw7n8sZ+w4opdC0phGzbtMRwYJTxA7zTfWmbyl9jbRvEodtk3DQccLYUVc/ru2wB3kGT7VSMjY6l1JlcUxklspQ48LO3Q4gS4AJUopHXr35JPvVsBt8RMwLFm+kB5TgnNant/4np24ffvnUs/blzy8KBghRAUQRBEnv0NTfpNhcpk8rc2do8/ZrQ2h9Qcb3NKZlQKiCZmQEiOvMniu24ynibTIXbdyxb3TbqVqYfIJuEkx145kdADA6Hikw1pcaezVw5iXm3Q/Zot0eHWQGt6g4QoGfMkqWIECeahbQ4O0wlmHZSQbB5zbNOWVq5lXLTLlbd1ZhRbWlW3kGFD47iis/0dnLnK27t8666bgPrQpxUBSvfpHeiibdedYAELqCJTb36kF1pbrdisvSB+Rz/nJpA7rjK35tGnlJact7gvMPsShxqQmQkz6oSZ6g9+aKKhgGGhkIxRtynmX3Grxa8StsY528LiVEOvqA8xJHlUoKV/luABJrM3bR46sFr4ZxguvhQbVyQCZ6jgjrRRQ3AVCRGMdjbeit7iWHD6luNPZS7tkNKumC8opt9kies8EH5FFFFDWxto+I/biVtdZ9x/s//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">KING</div>
-                                    <div class="artist">Kanaria</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUEBgcBAgP/xAAvEAABAwMDAgUDAwUAAAAAAAABAgMEAAURBhIhMUETIlFhcQcykRQVgUKxwdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAABQYCAwQH/8QAJxEAAgIBAwMDBQEAAAAAAAAAAQIDBAARITEFQXESEyIjUWGBkfD/2gAMAwEAAhEDEQA/AKPbdN6j0zKVKaQpLCXkMP7OSOOpHXv1rS9KuXjWDL1tvMZLdvbRy9jlfPlwR1NTb1fXYj00RoRVDSne68ckOeX1PxipWkdQW+LaGXW8IjuryrnPhk+vtXM7N2WzGJJIx6ttCP8Ac4+egxRfAb9vxmV6y0dOj3cR4TbzzRPJUcIT7Jya4vunYtgatyXIKpL0pWxtBVyfXJPFalqy+Nfv0WAu1yXVrHiIfSfIkAdT6Jyec4rGvqnMucrU6221gpZAcaaKsbeOSMH260U6XYsWnjjl2XTXzmaawyxmSNfl/cUy9Pt3aAt61tFL5cKUt5+3BwUgfP5ortYZzsSI1FbdC0ORxICjwpvJ6Z79e/PSijkktmBiinbJVqda/GJmGh7+c1+O1dEaWcg6hw5NfjjaywN3hkDgkCqh9P8AVK7dcDa7qlhiOB5N7eClXPBP+6dX7WEiBKjS21KCi0AtKQDu5IqsXO7WG6w4km4RFMymJS/Gx9zjSjkZA+4ZV/il2pWZ42EqfF/t2PjNUqNEoB7841b1BFnW6fGjzHW5DcltTZcWvO3ODk4wrO7pnt2ArNHNTXuXc3IiZMVLwcUUuqbRwEjO3JSTgjP81ATdFw5pkxHUGMh9xTbLyvMpI7KUOp6devHWvFmGmZcRPYkhtDu5TpSQVIJOMAH1pmp1FrEk8HF+y5nAWLnXG1zm3W7xmm4iluu7iV5Sny444OBxxRTjS36dUYOQHFuJBJd3DnJ/745oqMl0xsVAH7wrB0wSxh2Yjwdsd3e4QLvFiuRFIXuQUq2DorJ7en9qzi46efgvLlTHnUgKI25Oce57UUVVV+g/tJxltuJZ64kfkDXGf7jI05aFwtjL7MjCy4kb85HcHHfH4/NVUWnFhZU6lQSPMEJwf4z2oootXUBS+m5xb6gxWX2wdhl00rcIUC2NqfeS3/TlWRn5xRRRWKWqkjljhRL8sUaqunGf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">U.N.オーエンは彼女なのか?</div>
-                                    <div class="artist">ZUN</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYC/8QALBAAAQQBAwIEBQUAAAAAAAAAAQACAxEEBRIhEyIxMlFhBhSBscFBUnGR8P/EABkBAAIDAQAAAAAAAAAAAAAAAAQGAQUHAv/EACQRAAEEAQMDBQAAAAAAAAAAAAEAAgMEEQUSMQYTITJBUYGh/9oADAMBAAIRAxEAPwB2/dF+hUOI0ti7o4oyTdRmx/PgFBq+Q7HwyWGnPO2/RCMjL3ho91pdu22rXdYfwAmnTRtNOkYD7uC6+vHssdf62r3QpnujfE+9rOWn8Iyel22bgc4S1pPVDr1gQvjwDwU1mx9R0NTdMh1gX5v8PuhcZ07oZoQ2Dqbr7q8pQhBux4TJI6Ped3P2pMQ9OHb04o+fLEbH2Sut9+ED+1wKjwc7FZBT2CI35YaLfwldd1XFbhOjiLzI8gAGvBFwwvbKDhLWo6tWnpviDskhIY8zY5QXgOBNcq/01+7e4ABvgsOMx3TeKC0Pw1qkHyz4sjqbw7cCK5H1R1qPcw4HlLeiW3VZmiR2GDJ/FoZXyEt6bg1t91+iEnNmYUjoyJJm7HbuAOUKsFd/wnB2u1s+tULQGigAFVamwjJa8kEFvA9EIVwOVnyUAFnjgq3woI2Ma+Mmi2hf9lCFLuFJTRQhC4UL/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">夜に駆ける</div>
-                                    <div class="artist">YOASOBI</div>
-                                </div>
-                            </div>
+                            Unexpected error
                         </div>
                     </section>
                 </div>
@@ -351,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PistonDevelopers/graphics</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library for 2D graphics, written in Rust, that works with multiple back-ends</div>
@@ -404,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jrmuizel/raqote</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust 2D graphics library</div>
@@ -457,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuantumBadger/Speedy2D</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API.</div>
@@ -507,7 +469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2022, 14:23:49  with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 24 Sept 2022, 15:27:01  with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
