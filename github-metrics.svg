@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    9.78 GB used
+                                    9.77 GB used
                                 </div>
                             </section>
                             <section>
@@ -303,17 +303,17 @@
                                 </div>
                             </div>
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIEBQYBBwgD/8QAMBAAAgEDAgQEBAYDAAAAAAAAAQIDAAQRBSEGBxIxExQiQRVCUWFScYGhsdGywfD/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUCAQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEMRIUQQX/2gAMAwEAAhEDEQA/AL5pnM/iS60zz8tnpypkjw443LHH3L7fvTvROat9dSnztnCkLHCvHG2f8t6pKabdWsIsZQ0MXzK6gYB+m2aSukTxkNaKzBfUCh3296n18s53uXz+eoE3bpfFQvZ3jwile3WhQn9CadazxHHo9q1xqEkFvD7NI2B+5rUNrrknmLc6gJZUTCsHG2P0/mpbjrTdJ13R5WmviIZIBHamST0pKflO+cn70w1wADLFG4ShsHQl4seLvil7PbabJASkKuHZGPqJPtnttRXJYtr+binhqwtdQu7C5QJHJKJPDEKqTk9WfwjO9FMrgjIMRekA4nS2j3AvlEN4sb7YX0Akn8zTi64VuZFD2hWI7+nOK8Y9PuVKSeCyJke2/apoP5W18ZZJutRkJvvvj+a8rRcenBlyxypzUe/ko68PvJet54skSHBAOSx+g/ul8x59H0ThWMSFRIQfAgR9lc9nI+Yj6nOPbFS+s6sk8ZMsEsFww9L42NaT5mXEl/qaWzs7tGoKhADnOKNU/m+CdQprawebax8ldmuRxjrGnaT0dKGRg8sIHX0d2/40U55Wvd2vMDyltGjy3EbIY5YgQSuCerAyBge3airSuKxhZN8UBOZ1ydJu3iMbyIFwF9JIxjtS/hEowQ46h2OTt3/uiihrw6u4j7D9TMmlPMuLlYZOnPTkZ/1VG4w5WJrkxu7J4LO+9Kk5JQgHPbGx79qKK16lfc6vJsXYMY2nKi50fiSHXNHktZb0KEbzjkhVIw+AF3JHuaKKKItKgTDXOxyZ/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">吹雪</div>
+                                    <div class="artist">西沢幸奏</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAv/EACwQAAEDAwQBAwMEAwAAAAAAAAECAwQABREGEiExQQcTYRQiURUycaFCcpH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQH/xAAhEQACAwABBAMBAAAAAAAAAAABAgADERIEEyExIkFRgf/aAAwDAQACEQMRAD8AyT0btMh5ydcFMpRDj7QuS6kFsHB+3njPn4q+1LYbM4xOuMGW8qU+lTqWisbdpOSNvjgk91Np62zbboe4251v3lyJyJcMKSW1H7TuJHQGAOsjmpfUVF6it2/6n9OXbUxUJS/EbKeSnCgc/nP58cCuqx5AGNtSqVHRpMR9M2FFyi2ksPoceelllyM4jhACc7s5+4YHWBzx1W/RWIWnLDDtdmb+iZkuKJQGitRc4ySoZ4+TwAAKynSzlogQLe8Y7TMiNclyFygvaose3goUOsBWCDx2RTur1A9rTr0xuKveiStn3WyFNqCsKSlJ+U84xwfPIpdq3beMlVioQrDzLRF6bjqYizZFvednpU1HamOBKHwRj7gf8T11z0OaKy+4OWDV+sYd4lXlMNEdxrLD7KlKcQk7injrGCM4I5FFEigD5+5Y7O51V8Ru0RIb1I/cUTkurZRH+nbTHUlK9wwSEc5B+Bkc84ry7cLQu1RYmoEy2VW/ctyMWFH3ykkJTn4yMnI6/Brhtzd5TIflx4MOzsR3FPey0yEhahg7ASCVHA6J8AgU4Qbam9SIlzuCn/qkJUpSEoBLhURtyDgA48D+aOxRX8mIl4IdsAIiBLnQdQPS482DCQhL6wG2d6FKSnbgZB5SQkdY+MGoZ1vsUbTLLUJmRGmZK5IjFzaogHHCyQP9sDjNWMcCVqO5Aqi6fcDBQpPupJHIylSQcpJA/GPg0abaiqnF5Tzzq0bnnXEs7wk5xxnpOCMYJxwQaAW9tS8VagM3Hf7M9n2G6W7TUK/OS2VMyV7EpQRuS5kghWej5z/2inzXb0J+IppuAj3EBSmylRKlqxyc/uBJ8f3RUqfurzh2V9s4I93SZa2sSNTykxZ21SmXAogLUnJyQnKd3Pf9Y4rhZvce/wBsXPly1sREtlalMLOG3EKClHftGeAQQPB6oope9Q2b+xtWPPJQagfgz0l/T7zcu5rKPcyVEPoHaE5OcADwf4FV3pxMk3DXJTd5a4YTgGIEFJkgJJ29YPIAx2fFFFPdOo4Yf0RLr0FZ5L7yOOnY1uu2sbRdHYDTkS6xVKjtuxyz7YSV53IBKSvjvopGcUUUVoUquephdTc4Iw/U/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Bad Apple!!</div>
                                     <div class="artist">nomico</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUEBgcCAwj/xAAsEAABAwMDAwIHAAMAAAAAAAABAgMRAAQFBhIhIjFBYXEHExQVMkJRI7Hw/8QAGgEAAgMBAQAAAAAAAAAAAAAAAwQBBQYAAv/EACcRAAEDBAAGAQUAAAAAAAAAAAEAAgMEERIhBRMiMVFxI0FygZGx/9oADAMBAAIRAxEAPwDIsWDldR3Iu5WloEFufygxHtTTWF5bqFgca6l1du04h5tvkh7dIAA8bNsK7cGKh2WLylnn7u9SwlLZnaVKBCpM9vI96jYU/P1BaNNhVskPKStYI/MpgAT+oG0eZ8UrTxYvzcOw0Fo+KVokg5LCCHONz53r8JSXGkp27QgiA31A+8+kVfMNlDmLJTFyvdc21u22kKH5tJG3qP8AQNvfxU/NaEtnWRc2rjjLqEncENz1RIPAkCf4PaouB064rEtrLirV8nclbbpcS6hUSVAx4njwfemJ2CWMtIVVwyrdQ1TZWnQO/X1VRvmBiNSMItCSlyCEn9ZMEeoopvktK5Uambclu4QgJKCmZWJkQmJ5/wB8UVVSwv6bi5sttQ8RpxzOXIGtLjYfpegbzRWPuXlXaXVLKTuDQ2BJgzBgc1j/AMbMNicO6ftjJYdUUuhaUQjZtgxHBglPEDzNN9a5zKX2Os28Sh22Fw0HHC2FFXP67tsAeZBk+lUjI2OpdSZXFMZJxlKHHhZ26HECXABKlFI79/PJJ9atgMeolYElzviA7LgnNant/uenbh9++dSz8uXOnhQMEKICiCIIk+e1TfhNhspksrc2do8/ZrQ2h9Qcb3NKZlQKiCZmQEiO/Mniu24yn1NpkLtu5Yt7pt1K1MPkE3CSY78dUjsAYHY8UmGtLjT2auHMS826H7NFuj6dZAa3qDhCgZ6klShAgTzUNlDgcUSSjkhIMgtdbZpyytXMo5a5grburMKLa0r28gwoe3kUVn+js5c5W3dvnXXTcB9aFOKgKV68CPNFe8b7ugA4kghU29+JBdaW63YrL0gf5HP+JpA7rjK35tGnlJact7gvMPsSlxqQmQkz/UJM9wfPNFFc4ZaKhjyw5NO1fcavFrxK2xjnbz5iVkOvqA6iSOlSgpXruABJrM3bR46sFr9M4wXXwoNr5IBM9+xHeiihvAawkJincZZ2Nd5CsGH1Lcafyl3boaVdMF5RTb7JE954IPuKKKKG2R2I9J+WkjdNJ9x/q//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">KING</div>
-                                    <div class="artist">Kanaria</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -324,10 +324,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAMEBQYHAQII/8QALBAAAQMDBAEEAgAHAAAAAAAAAQIDBAAFEQYSITFBBxNRgSIjFDJSkbHB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAcEQEBAAMAAwEAAAAAAAAAAAABAAIRIRIxQVH/2gAMAwEAAhEDEQA/APMgHOPNclHCu8inEV9KELS5kg9YFJFefcz2aMqSespJbcjPIUy4nf8AkrlAwc7vsEUxRFW5IUw0n3HPG3nOPirNpXRF/wBTWW4zrY0VRYCAV7nAgHs4GSMns4FdtCrdtWqrJd3WYr0VT4GHlJKf6TuHODzkZHxU3+V1VV6M8wf3NLbO3dhQxx1RVo9TEzkapnLmQmorTrq1spZSUt7CokbQQDjnyBRVPVHlKaA9Mpmr9M3i7R5sZhUJQbbjuZ3vLxu8dDHAJ81TodqkPT2YziFNFxSU7ljAGf8AlbvpZ+/6PdbsjcZq2qvsUyEKkAHbxtSSkHOef5TjwceKx6/xpdnuS4d2QpExl8qLvkjo8/QP3QHurTLEDZaZZ9Ry9M+mt/sakb/deW3DffwGmklO1Sk5JOSSrAx5JzWYsQHbXLDKpER9yTHO5Dat4aKhkAnrdjnjqlbxdXP3RPYcLDIU2C4d21Wck5+TgfVQ1qIU+0FLKE5IyPg0wDsFXk71DcJ854fx7pcW2yhBJV2lPX+aKVmxHnosl6MFPAfgdiNx25znjocUV0vDJ7WG7+oNy1DqaNMuAEZttxWxCSNze4AHKsZJ489eBUTqu8y71c2nLsVSn/cPBP5KHCR0OiB/uiipoNUclln5MWEw8l+O6qYshTiXcAo4GeCOarUl5tuYl2KktoSQQAef70UUo/axWG7zotsnvWm8ogLaHuKhODPv+CUnGPo80UUUE7bY8L//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACQDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMEB//EADEQAAIBAwMDAwICCwAAAAAAAAECAwQFEQAGIRIxQRMUIgdRMmEVFkJSYmNzgaLS4v/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAECA//EACURAAEDBAECBwAAAAAAAAAAAAEAAgMEERIhMQVBExQyUVJh4f/aAAwDAQACEQMRAD8AfUn0qSomWMXpQzfyP+td1R9I7dRPH7zdUMRY/ESU4Gf8+2rC3CSKdHgiEsqgskZbHU2DgZ8c+dSclpulz3JcYaNo5PasvuGdslHZQzAAd+cgaOqOo1EYGJUpaSKU2dpK7vtDa8VFHUT7tpIImkZF9OhPUxXg4UNkgffGNbIPpfbqy1x3C27mjqqZz0h1p8c/Y5bIP5HSaO0frbuKhtAqBE7U8jxyx4PSFYg5HkZBbA758artj2epsEm4rRJKs9NTyQn1OrJaQrk8dhwQcd/ljnGqh6hObXKqaljYSBtIj9MUB4vCkf0R/to1ayRfM8aNF+bm+SG8FvsmVBMIZkmZgojVnJPYYUnU7YbVdqq4QXPcFVJBJXQt1UccgjapCqWAIBDAHHjOR9tY72rfY7clVXVJKoimUnwH4Y8fw51DCinrjTTU90qhf/hFDIwcsjjAGGHGMdu2l1Xi1oueSj6OMvyNtAKk2zPT3641ts9H2rxo01BJSQCKSlKZPBB+IP4SDnJPOt+3ZIrPdZaOIzQwVpBljqwBMankkkjliQPOuGz7ovFv3OkG8oqVlj6kedKdPU6lIyGaPwR4IweNIfrDNWV10XcluqoTRn00pkWQeqkseScp35Azn+2swQuDgA6/2t1M0bySGY8L1OT8WjXPQyvUUNNNKvTJJErsp4wSMnRoq6FssNxWea4oJJber0tM3WsXr9MxbGMqcdOMHse+lBsj7Sp/fXBY5UkVi84ctJSZ/cU/EkDyAD3/AC0aNK5XEu2m1JI4NDBwVJWaltD2uq/S11U1M9Ys6TqWdnTpPUoB/aJI7+cadts2OrplqFs9bNSydKoJK1AVOcZJ6cgZ+2jRpiZnQQtw7/iXzRiWZ2XZWdA0NDRw0txgqPdRKEcxnrU47EEDnjGjRo1Q2Fwf6iv/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Magia</div>
-                                    <div class="artist">Kalafina</div>
+                                    <div class="name">ロマンティッククルージン</div>
+                                    <div class="artist">スタァライト九九組</div>
                                 </div>
                             </div>
                         </div>
@@ -501,7 +501,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2022, 09:29:41  with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 2 Oct 2022, 10:30:00  with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
