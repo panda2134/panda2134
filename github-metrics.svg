@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>terrastruct/d2</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">D2 is a modern diagram scripting language that turns text to diagrams.</div>
@@ -469,7 +469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Dec 2022, 16:29:06  with lowlighter/metrics@3.30.0-beta</span>
+                <span>Last updated 2 Dec 2022, 17:19:14  with lowlighter/metrics@3.30.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
