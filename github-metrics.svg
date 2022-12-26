@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oxalica/nil</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NIx Language server, an incremental analysis assistent for writing in Nix.</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/rnix-lsp</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WIP Language Server for Nix! [maintainers=@aaronjanse]</div>
@@ -469,7 +469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2022, 11:19:09  with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 26 Dec 2022, 12:40:02  with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
