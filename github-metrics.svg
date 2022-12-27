@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gvolpe/neovim-flake</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix flake for neovim &amp; scala metals</div>
@@ -457,7 +457,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2022, 19:19:49  with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 27 Dec 2022, 20:23:54  with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
