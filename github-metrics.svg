@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lazamar/nix-package-versions</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Search for old versions of Nix packages</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mayswind/AriaNg-Native</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A better aria2 desktop frontend than AriaNg, with all features of AriaNg and providing more features for desktop usage.</div>
@@ -469,7 +469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2023, 21:19:43  with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 1 Jan 2023, 22:22:26  with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
