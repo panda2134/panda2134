@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhongyang219/TrafficMonitor</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/NixOS-WSL</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NixOS on WSL(2) [maintainer=@nzbr]</div>
@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tpope/vim-fugitive</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">fugitive.vim: A Git wrapper so awesome, it should be illegal</div>
@@ -463,7 +463,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jan 2023, 14:17:27  with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 15 Jan 2023, 15:19:28  with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
