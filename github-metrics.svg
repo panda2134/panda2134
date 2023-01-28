@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ouch-org/ouch</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Painless compression and decompression for your terminal</div>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2023, 06:23:57  with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 28 Jan 2023, 07:17:21  with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
