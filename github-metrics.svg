@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wilfred/difftastic</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a structural diff that understands syntax 🟥🟩</div>
@@ -469,7 +469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2023, 16:29:04  with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 2 Feb 2023, 17:19:12  with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
