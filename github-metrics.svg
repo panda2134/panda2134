@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>slaclab/pam_oauth2_device</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PAM module OAuth2 Device flow</div>
@@ -469,7 +469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2023, 15:21:54  with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 10 Feb 2023, 16:28:58  with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
