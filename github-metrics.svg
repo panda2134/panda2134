@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iDvel/rime-ice</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rime 配置：雾凇拼音 | 长期维护的简体词库</div>
@@ -469,7 +469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2023, 18:26:29  with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 24 Feb 2023, 19:17:12  with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
