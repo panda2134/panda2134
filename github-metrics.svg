@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thebaselab/codeapp</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Building a full-fledged code editor for iPad</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DeterminateSystems/nix-installer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Determinate Nix Installer.</div>
@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhaofengli/attic</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-tenant Nix Binary Cache</div>
@@ -469,7 +469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Mar 2023, 12:38:56  with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 17 Mar 2023, 13:26:26  with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
