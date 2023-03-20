@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/lanzaboote</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nickel-lang/nickel-nix</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.</div>
@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/NUR</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix User Repository: User contributed nix packages [maintainer=@Mic92]</div>
@@ -469,7 +469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2023, 19:16:42  with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 20 Mar 2023, 20:20:31  with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
