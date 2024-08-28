@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 47 repositories
+                            Contributed to 48 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2600 Commits
+                            2601 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -133,7 +133,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 147 repositories
+                            Watching 148 repositories
                         </div>
                     </section>
                 </div>
@@ -145,7 +145,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            108 Repositories
+                            109 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -197,7 +197,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    132 Watchers
+                                    133 Watchers
                                 </div>
                             </section>
                         </div>
@@ -219,13 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="142.5277976024944" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="142.5277976024944" y="0" width="95.17500001013956" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="237.70279761263396" y="0" width="91.67206339090394" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="329.3748610035379" y="0" width="51.71575002119168" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="381.0906110247296" y="0" width="38.32651842270093" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="419.4171294474305" y="0" width="23.05773965423561" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="442.4748691016661" y="0" width="17.52513089833388" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.20666451875286" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="139.20666451875286" y="0" width="92.9572653184106" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="232.16392983716347" y="0" width="89.53595290787034" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="321.69988274503385" y="0" width="50.510687631713765" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="372.21057037674757" y="0" width="37.43344724318786" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="409.6440176199355" y="0" width="22.520456238017015" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="432.1644738579525" y="0" width="17.116766403811315" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.2812402617638" y="0" width="10.71875973823621" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -270,6 +271,12 @@
                         </svg>
                         C
                     </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Java
+                    </div>
                 </div>
             </section>
             <section>
@@ -289,17 +296,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAMEBQYHAQII/8QALBAAAQMDBAEEAgAHAAAAAAAAAQIDBAAFEQYSITFBBxNRgSIjFDJSkbHB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAcEQEBAAMAAwEAAAAAAAAAAAABAAIRIRIxQVH/2gAMAwEAAhEDEQA/APMgHOPNclHCu8inEV9KELS5kg9YFJFefcz2aMqSespJbcjPIUy4nf8AkrlAwc7vsEUxRFW5IUw0n3HPG3nOPirNpXRF/wBTWW4zrY0VRYCAV7nAgHs4GSMns4FdtCrdtWqrJd3WYr0VT4GHlJKf6TuHODzkZHxU3+V1VV6M8wf3NLbO3dhQxx1RVo9TEzkapnLmQmorTrq1spZSUt7CokbQQDjnyBRVPVHlKaA9Mpmr9M3i7R5sZhUJQbbjuZ3vLxu8dDHAJ81TodqkPT2YziFNFxSU7ljAGf8AlbvpZ+/6PdbsjcZq2qvsUyEKkAHbxtSSkHOef5TjwceKx6/xpdnuS4d2QpExl8qLvkjo8/QP3QHurTLEDZaZZ9Ry9M+mt/sakb/deW3DffwGmklO1Sk5JOSSrAx5JzWYsQHbXLDKpER9yTHO5Dat4aKhkAnrdjnjqlbxdXP3RPYcLDIU2C4d21Wck5+TgfVQ1qIU+0FLKE5IyPg0wDsFXk71DcJ854fx7pcW2yhBJV2lPX+aKVmxHnosl6MFPAfgdiNx25znjocUV0vDJ7WG7+oNy1DqaNMuAEZttxWxCSNze4AHKsZJ489eBUTqu8y71c2nLsVSn/cPBP5KHCR0OiB/uiipoNUclln5MWEw8l+O6qYshTiXcAo4GeCOarUl5tuYl2KktoSQQAef70UUo/axWG7zotsnvWm8ogLaHuKhODPv+CUnGPo80UUUE7bY8L//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAKhAAAgEDAgUEAgMBAAAAAAAAAQIDBAURACEGEjFBURMiI2EycRQVkeH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACoRAAEEAQIFAQkAAAAAAAAAAAEAAgMEERIhBRMiMUFRBhRxgZGhwfDx/9oADAMBAAIRAxEAPwChkrxR1kVKVMrlNyWOFz05t/P+6iOKpKmqo3WWOEFarrDKZF5VXcf6RvqsRaupuE9zpIsmB0iYSDmSdACXyOxBIGen3rfxXHHdrRYpqW2NHFDVKsxjhPOgUYkJVdiM8u2xzjG+oXDIjzdTiMLTDUZHXBczc+Sl/A1gnrOJ56e9pLC86LP6MLncD2gMBnlH4nfBHnB1WcR2s0VEkfD9xqaX+VN/GnQuZFClcl8HcFdsgEA6oKKS411THcoKQUix/GZK6IwFkwAwOcMfx5skfXTSusubxXOO42Wn/spqYNHG8MqkPGSA+IwegKj3Z/etVikHytkGwTIBpJLR3XlFFU3KwXVqO7+pJRTSNHHUMCckMVJGdyMgj60a2zG58S8SpDXVqUFIkhlWnqJSIwQ3MEwc4JBzk7b7YGjS7EED36sH5JFupDC4c0EkjOypeG5Z6O9NT0lItdDGRM+JlHIpG4YMQMd8/WuF34pltdylqAtTW0rrzLSOvJAzjlKurqCoOV/EHfOpni4vJNRRyVTJBUyrG0ivhUUEdV6HbudWt64gt9xs9po6dHe5ygLTh48ZVc/KATkAnBAO427Z06rFisJP3ZNrXJJWNB8jH4UdW8c8TzyzVtfbEpaCeBqdElDMpDE5IOQQ2Nv150xorsbGiX2xyLE7U0dOtsWEs0SA+7LEZYbZ5h3znVvU1UPD1DBJHTTVirCTPTzLgqDt8hJPuJBI2xjI1ylFrvdlhdlEcr/PMAvuTCdA4OTvkZPY40bZiR1nqHoqnvDGQiNjd/U+fiF5bebtcLvxRRiShmjjmETGRhlpenM2ew27jYaNNrVNK9XJGlQlRTqWVZlJbYHAGT389vGjU2ezh3Zc3xKxJztLvCVV9kqa6zsyXCLmeXIhkIJU8u3u2OPv/us9n4cqbfVitauiasjjZIisuwPk5/WNuujRq7oAjMY7LsxwOqzZoOx9VSQi63utgpLhcUERBaolQ55Y0OSck+B3+vOmEy231BHb6yWJJIpJW9aT1EUnOEAI2I8jck7bAaNGkR04mHpCfZ4fFLlpzsB9/wCJZSVNNRyAwoPxC5VNvs4J0aNGgfQhcclC72bpPwXA/Vf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Magia</div>
-                                    <div class="artist">Kalafina</div>
+                                    <div class="name">僕らは今のなかで</div>
+                                    <div class="artist">μ's</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUEBgcCAwj/xAAvEAABAwMDAgUEAAcAAAAAAAABAgMRAAQFBhIhMUEUIlFhcQcTI0IVJTJSYrHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQBBQb/xAAnEQACAgEDAgUFAAAAAAAAAAABAgADBBESIQUTIjFBUXEjcoGRsf/aAAwDAQACEQMRAD8AyLFg5XUdyLuVJaBBb/ugxHxTTV97bqFgca8l1duy4h5tvkh7dIAA7bNsK6cGKh2WLytnn7u9SwlLZnaVKBCpM9PT57VGwn59QWjTYVbJS8pK1iJ3lMJAn9QNo7z2pXHq2vvb0HAmj6pmiyjsoQdzHU+/PH4in7jSU7doQRAb8wPzPtFX3DZQ5iyUxcr3XNtbttpCh/W0kbfMfUDb17VOzehbZxnxNq44y6hJ3BDc+aJB4EgT6D4qLgdOuKxLay4q0fJ3JW24XEuoVElQMdp47H5pjIQW1lSJVdMy2wcpbVPAPPx6yo3zAxGpGEWhlLkEJP6yYI9xRTfJaVyo1M25Lb6EBJQUzKxMiExPP++KKqraX8Oo1Ok22D1HHHc7dgVSx0H6noG80Vj7l83SXFLKTuDQ2BJgzBgczWP/AFrw2Jw7n8sZ+w4opdC0phGzbtMRwYJTxA7zTfWmbyl9jbRvEodtk3DQccLYUVc/ru2wB3kGT7VSMjY6l1JlcUxklspQ48LO3Q4gS4AJUopHXr35JPvVsBt8RMwLFm+kB5TgnNant/4np24ffvnUs/blzy8KBghRAUQRBEnv0NTfpNhcpk8rc2do8/ZrQ2h9Qcb3NKZlQKiCZmQEiOvMniu24ynibTIXbdyxb3TbqVqYfIJuEkx145kdADA6Hikw1pcaezVw5iXm3Q/Zot0eHWQGt6g4QoGfMkqWIECeahbQ4O0wlmHZSQbB5zbNOWVq5lXLTLlbd1ZhRbWlW3kGFD47iis/0dnLnK27t8666bgPrQpxUBSvfpHeiibdedYAELqCJTb36kF1pbrdisvSB+Rz/nJpA7rjK35tGnlJact7gvMPsShxqQmQkz6oSZ6g9+aKKhgGGhkIxRtynmX3Grxa8StsY528LiVEOvqA8xJHlUoKV/luABJrM3bR46sFr4ZxguvhQbVyQCZ6jgjrRRQ3AVCRGMdjbeit7iWHD6luNPZS7tkNKumC8opt9kies8EH5FFFFDWxto+I/biVtdZ9x/s//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIEBQYBBwgD/8QAMBAAAgEDAgQEBAYDAAAAAAAAAQIDAAQRBSEGBxIxExQiQRVCUWFScYGhsdGywfD/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUCAQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEMRIUQQX/2gAMAwEAAhEDEQA/AL5pnM/iS60zz8tnpypkjw443LHH3L7fvTvROat9dSnztnCkLHCvHG2f8t6pKabdWsIsZQ0MXzK6gYB+m2aSukTxkNaKzBfUCh3296n18s53uXz+eoE3bpfFQvZ3jwile3WhQn9CadazxHHo9q1xqEkFvD7NI2B+5rUNrrknmLc6gJZUTCsHG2P0/mpbjrTdJ13R5WmviIZIBHamST0pKflO+cn70w1wADLFG4ShsHQl4seLvil7PbabJASkKuHZGPqJPtnttRXJYtr+binhqwtdQu7C5QJHJKJPDEKqTk9WfwjO9FMrgjIMRekA4nS2j3AvlEN4sb7YX0Akn8zTi64VuZFD2hWI7+nOK8Y9PuVKSeCyJke2/apoP5W18ZZJutRkJvvvj+a8rRcenBlyxypzUe/ko68PvJet54skSHBAOSx+g/ul8x59H0ThWMSFRIQfAgR9lc9nI+Yj6nOPbFS+s6sk8ZMsEsFww9L42NaT5mXEl/qaWzs7tGoKhADnOKNU/m+CdQprawebax8ldmuRxjrGnaT0dKGRg8sIHX0d2/40U55Wvd2vMDyltGjy3EbIY5YgQSuCerAyBge3airSuKxhZN8UBOZ1ydJu3iMbyIFwF9JIxjtS/hEowQ46h2OTt3/uiihrw6u4j7D9TMmlPMuLlYZOnPTkZ/1VG4w5WJrkxu7J4LO+9Kk5JQgHPbGx79qKK16lfc6vJsXYMY2nKi50fiSHXNHktZb0KEbzjkhVIw+AF3JHuaKKKItKgTDXOxyZ/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">KING</div>
-                                    <div class="artist">Kanaria</div>
+                                    <div class="name">吹雪</div>
+                                    <div class="artist">西沢幸奏</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQGBQIDCP/EACsQAAIBAwMCBgICAwAAAAAAAAECAwQFEQASIRNBBhQiMWFxUaGBkRVC0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMREiExE1H/2gAMAwEAAhEDEQA/APQ9cKyWvqrVTJE1M9OJXeZ33HezBgDn4z+tQlU0VJSwnyTeUqWBYSM2Y5kwrJnIzyzAZHY/xr3y83uDxNRColgisz0zJVU6L1Mv6wcencednIIAAbIOdPVV7g/wghoispwNqunpyD+c8c85OfnSrmASb83pmNTX64k096a5B6N6oQNAWA4JwMKPj+e+qZvEaUpq6UxzG4dVumjqQG3E7cfAGNTVtpaqps9QTbY3InOw9MRmHPO4ZwCAe4112G4GjnSSr6tVPtbpSSNkIPcHnk5P51Pjo9lFF8lUZrlaY4Kho1qjK+asljujQDPpH5xk6NOWGshraueULItQ4yQWym0YAxo1tE1rUnbe5KeInqpJ4DOsqzNCGbLBgpJ5C8frn7Op23xVtVdfIyQrT1EmWhkOVSZRz7dz9atPGhQVcDKAq9LJOMdzpSomiuVgWWTeKu3SI0TKvO08H6yMj7AOpWDe5UUrJG7+O2qJ46GGsr4RHGUaWGMe659SggHGOx+zjXC3tBLRx+VimdmwHlcgspzzyTjP1nWj4ltc1RVxVdRFvgSdKdWC7eqrb92cdiTyfxpC/KJLmJlp4uhTiNp1VAG3Nn2wMhVGM/k/GrZOAHEhx7VGVXhOcCrrlhMymWPZ1l/1bIGc4wP6OjTPhGaCK4OtQwiDx7EGfSTnPB/7o0Bf2ZY78jl+tdwuL0zzSU1LIwaJVyWy2SV/WT8Y99YV1stWm+h3SKJ3WINFkblYgH1fBIz8aNGhas2qywa1VUVsMAqVbZThF3JkBx3/AK41LxWGXiq8xCY2CMz7TnYwwrc9h7fA+tGjSTsmCzdtFj8lvMrw1FNNHt2gbgQTn6xo0aNIqQtmf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">六兆年と一夜物語</div>
+                                    <div class="artist">鹿乃</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -310,17 +324,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACQDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMEB//EADEQAAIBAwMDAwICCwAAAAAAAAECAwQFEQAGIRIxQRMUIgdRMmEVFkJSYmNzgaLS4v/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAECA//EACURAAEDBAECBwAAAAAAAAAAAAEAAgMEERIhMQVBExQyUVJh4f/aAAwDAQACEQMRAD8AfUn0qSomWMXpQzfyP+td1R9I7dRPH7zdUMRY/ESU4Gf8+2rC3CSKdHgiEsqgskZbHU2DgZ8c+dSclpulz3JcYaNo5PasvuGdslHZQzAAd+cgaOqOo1EYGJUpaSKU2dpK7vtDa8VFHUT7tpIImkZF9OhPUxXg4UNkgffGNbIPpfbqy1x3C27mjqqZz0h1p8c/Y5bIP5HSaO0frbuKhtAqBE7U8jxyx4PSFYg5HkZBbA758artj2epsEm4rRJKs9NTyQn1OrJaQrk8dhwQcd/ljnGqh6hObXKqaljYSBtIj9MUB4vCkf0R/to1ayRfM8aNF+bm+SG8FvsmVBMIZkmZgojVnJPYYUnU7YbVdqq4QXPcFVJBJXQt1UccgjapCqWAIBDAHHjOR9tY72rfY7clVXVJKoimUnwH4Y8fw51DCinrjTTU90qhf/hFDIwcsjjAGGHGMdu2l1Xi1oueSj6OMvyNtAKk2zPT3641ts9H2rxo01BJSQCKSlKZPBB+IP4SDnJPOt+3ZIrPdZaOIzQwVpBljqwBMankkkjliQPOuGz7ovFv3OkG8oqVlj6kedKdPU6lIyGaPwR4IweNIfrDNWV10XcluqoTRn00pkWQeqkseScp35Azn+2swQuDgA6/2t1M0bySGY8L1OT8WjXPQyvUUNNNKvTJJErsp4wSMnRoq6FssNxWea4oJJber0tM3WsXr9MxbGMqcdOMHse+lBsj7Sp/fXBY5UkVi84ctJSZ/cU/EkDyAD3/AC0aNK5XEu2m1JI4NDBwVJWaltD2uq/S11U1M9Ys6TqWdnTpPUoB/aJI7+cadts2OrplqFs9bNSydKoJK1AVOcZJ6cgZ+2jRpiZnQQtw7/iXzRiWZ2XZWdA0NDRw0txgqPdRKEcxnrU47EEDnjGjRo1Q2Fwf6iv/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAMEBQYHAQII/8QALBAAAQMDBAEEAgAHAAAAAAAAAQIDBAAFEQYSITFBBxNRgSIjFDJSkbHB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAcEQEBAAMAAwEAAAAAAAAAAAABAAIRIRIxQVH/2gAMAwEAAhEDEQA/APMgHOPNclHCu8inEV9KELS5kg9YFJFefcz2aMqSespJbcjPIUy4nf8AkrlAwc7vsEUxRFW5IUw0n3HPG3nOPirNpXRF/wBTWW4zrY0VRYCAV7nAgHs4GSMns4FdtCrdtWqrJd3WYr0VT4GHlJKf6TuHODzkZHxU3+V1VV6M8wf3NLbO3dhQxx1RVo9TEzkapnLmQmorTrq1spZSUt7CokbQQDjnyBRVPVHlKaA9Mpmr9M3i7R5sZhUJQbbjuZ3vLxu8dDHAJ81TodqkPT2YziFNFxSU7ljAGf8AlbvpZ+/6PdbsjcZq2qvsUyEKkAHbxtSSkHOef5TjwceKx6/xpdnuS4d2QpExl8qLvkjo8/QP3QHurTLEDZaZZ9Ry9M+mt/sakb/deW3DffwGmklO1Sk5JOSSrAx5JzWYsQHbXLDKpER9yTHO5Dat4aKhkAnrdjnjqlbxdXP3RPYcLDIU2C4d21Wck5+TgfVQ1qIU+0FLKE5IyPg0wDsFXk71DcJ854fx7pcW2yhBJV2lPX+aKVmxHnosl6MFPAfgdiNx25znjocUV0vDJ7WG7+oNy1DqaNMuAEZttxWxCSNze4AHKsZJ489eBUTqu8y71c2nLsVSn/cPBP5KHCR0OiB/uiipoNUclln5MWEw8l+O6qYshTiXcAo4GeCOarUl5tuYl2KktoSQQAef70UUo/axWG7zotsnvWm8ogLaHuKhODPv+CUnGPo80UUUE7bY8L//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">ロマンティッククルージン</div>
-                                    <div class="artist">スタァライト九九組</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQGBQIDCP/EACsQAAIBAwMCBgICAwAAAAAAAAECAwQFEQASIRNBBhQiMWFxUaGBkRVC0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMREiExE1H/2gAMAwEAAhEDEQA/APQ9cKyWvqrVTJE1M9OJXeZ33HezBgDn4z+tQlU0VJSwnyTeUqWBYSM2Y5kwrJnIzyzAZHY/xr3y83uDxNRColgisz0zJVU6L1Mv6wcencednIIAAbIOdPVV7g/wghoispwNqunpyD+c8c85OfnSrmASb83pmNTX64k096a5B6N6oQNAWA4JwMKPj+e+qZvEaUpq6UxzG4dVumjqQG3E7cfAGNTVtpaqps9QTbY3InOw9MRmHPO4ZwCAe4112G4GjnSSr6tVPtbpSSNkIPcHnk5P51Pjo9lFF8lUZrlaY4Kho1qjK+asljujQDPpH5xk6NOWGshraueULItQ4yQWym0YAxo1tE1rUnbe5KeInqpJ4DOsqzNCGbLBgpJ5C8frn7Op23xVtVdfIyQrT1EmWhkOVSZRz7dz9atPGhQVcDKAq9LJOMdzpSomiuVgWWTeKu3SI0TKvO08H6yMj7AOpWDe5UUrJG7+O2qJ46GGsr4RHGUaWGMe659SggHGOx+zjXC3tBLRx+VimdmwHlcgspzzyTjP1nWj4ltc1RVxVdRFvgSdKdWC7eqrb92cdiTyfxpC/KJLmJlp4uhTiNp1VAG3Nn2wMhVGM/k/GrZOAHEhx7VGVXhOcCrrlhMymWPZ1l/1bIGc4wP6OjTPhGaCK4OtQwiDx7EGfSTnPB/7o0Bf2ZY78jl+tdwuL0zzSU1LIwaJVyWy2SV/WT8Y99YV1stWm+h3SKJ3WINFkblYgH1fBIz8aNGhas2qywa1VUVsMAqVbZThF3JkBx3/AK41LxWGXiq8xCY2CMz7TnYwwrc9h7fA+tGjSTsmCzdtFj8lvMrw1FNNHt2gbgQTn6xo0aNIqQtmf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">六兆年と一夜物語</div>
-                                    <div class="artist">鹿乃</div>
+                                    <div class="name">Magia</div>
+                                    <div class="artist">Kalafina</div>
                                 </div>
                             </div>
                         </div>
@@ -344,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gmodena/nix-flatpak</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Install flatpaks declaratively</div>
@@ -397,7 +404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zydou/WeChat-AppImage</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">微信客户端Linux AppImage. AppImage version of WeChat for linux desktop.</div>
@@ -494,7 +501,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2024, 03:07:41  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Aug 2024, 04:08:40  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
