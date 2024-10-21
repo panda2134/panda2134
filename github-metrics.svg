@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="140.12300751508087" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="140.12300751508087" y="0" width="97.77440187483171" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="237.89740938991258" y="0" width="87.27487578261713" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="325.1722851725297" y="0" width="49.25525687552417" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="374.42754204805385" y="0" width="36.48812965252082" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="410.91567170057465" y="0" width="21.951740690839653" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="432.8674123914143" y="0" width="16.684511787458664" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.551924178873" y="0" width="10.44807582112697" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="140.118444773329" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="140.118444773329" y="0" width="97.77121810541647" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="237.88966287874544" y="0" width="87.27203390299519" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="325.16169678174066" y="0" width="49.26863171112078" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="374.4303284928614" y="0" width="36.48694151136138" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="410.91727000422276" y="0" width="21.951025889426575" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="432.86829589364936" y="0" width="16.68396849967251" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.5522643933219" y="0" width="10.4477356066781" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -303,13 +303,6 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQGBQIDCP/EACsQAAIBAwMCBgICAwAAAAAAAAECAwQFEQASIRNBBhQiMWFxUaGBkRVC0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAQACAgMBAQAAAAAAAAAAAAEAAgMREiExE1H/2gAMAwEAAhEDEQA/APQ9cKyWvqrVTJE1M9OJXeZ33HezBgDn4z+tQlU0VJSwnyTeUqWBYSM2Y5kwrJnIzyzAZHY/xr3y83uDxNRColgisz0zJVU6L1Mv6wcencednIIAAbIOdPVV7g/wghoispwNqunpyD+c8c85OfnSrmASb83pmNTX64k096a5B6N6oQNAWA4JwMKPj+e+qZvEaUpq6UxzG4dVumjqQG3E7cfAGNTVtpaqps9QTbY3InOw9MRmHPO4ZwCAe4112G4GjnSSr6tVPtbpSSNkIPcHnk5P51Pjo9lFF8lUZrlaY4Kho1qjK+asljujQDPpH5xk6NOWGshraueULItQ4yQWym0YAxo1tE1rUnbe5KeInqpJ4DOsqzNCGbLBgpJ5C8frn7Op23xVtVdfIyQrT1EmWhkOVSZRz7dz9atPGhQVcDKAq9LJOMdzpSomiuVgWWTeKu3SI0TKvO08H6yMj7AOpWDe5UUrJG7+O2qJ46GGsr4RHGUaWGMe659SggHGOx+zjXC3tBLRx+VimdmwHlcgspzzyTjP1nWj4ltc1RVxVdRFvgSdKdWC7eqrb92cdiTyfxpC/KJLmJlp4uhTiNp1VAG3Nn2wMhVGM/k/GrZOAHEhx7VGVXhOcCrrlhMymWPZ1l/1bIGc4wP6OjTPhGaCK4OtQwiDx7EGfSTnPB/7o0Bf2ZY78jl+tdwuL0zzSU1LIwaJVyWy2SV/WT8Y99YV1stWm+h3SKJ3WINFkblYgH1fBIz8aNGhas2qywa1VUVsMAqVbZThF3JkBx3/AK41LxWGXiq8xCY2CMz7TnYwwrc9h7fA+tGjSTsmCzdtFj8lvMrw1FNNHt2gbgQTn6xo0aNIqQtmf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">六兆年と一夜物語</div>
-                                    <div class="artist">鹿乃</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAKhAAAgEDAgUEAgMBAAAAAAAAAQIDBAURACEGEjFBURMiI2EycRQVkeH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACoRAAEEAQIFAQkAAAAAAAAAAAEAAgMEERIhBRMiMUFRBhRxgZGhwfDx/9oADAMBAAIRAxEAPwChkrxR1kVKVMrlNyWOFz05t/P+6iOKpKmqo3WWOEFarrDKZF5VXcf6RvqsRaupuE9zpIsmB0iYSDmSdACXyOxBIGen3rfxXHHdrRYpqW2NHFDVKsxjhPOgUYkJVdiM8u2xzjG+oXDIjzdTiMLTDUZHXBczc+Sl/A1gnrOJ56e9pLC86LP6MLncD2gMBnlH4nfBHnB1WcR2s0VEkfD9xqaX+VN/GnQuZFClcl8HcFdsgEA6oKKS411THcoKQUix/GZK6IwFkwAwOcMfx5skfXTSusubxXOO42Wn/spqYNHG8MqkPGSA+IwegKj3Z/etVikHytkGwTIBpJLR3XlFFU3KwXVqO7+pJRTSNHHUMCckMVJGdyMgj60a2zG58S8SpDXVqUFIkhlWnqJSIwQ3MEwc4JBzk7b7YGjS7EED36sH5JFupDC4c0EkjOypeG5Z6O9NT0lItdDGRM+JlHIpG4YMQMd8/WuF34pltdylqAtTW0rrzLSOvJAzjlKurqCoOV/EHfOpni4vJNRRyVTJBUyrG0ivhUUEdV6HbudWt64gt9xs9po6dHe5ygLTh48ZVc/KATkAnBAO427Z06rFisJP3ZNrXJJWNB8jH4UdW8c8TzyzVtfbEpaCeBqdElDMpDE5IOQQ2Nv150xorsbGiX2xyLE7U0dOtsWEs0SA+7LEZYbZ5h3znVvU1UPD1DBJHTTVirCTPTzLgqDt8hJPuJBI2xjI1ylFrvdlhdlEcr/PMAvuTCdA4OTvkZPY40bZiR1nqHoqnvDGQiNjd/U+fiF5bebtcLvxRRiShmjjmETGRhlpenM2ew27jYaNNrVNK9XJGlQlRTqWVZlJbYHAGT389vGjU2ezh3Zc3xKxJztLvCVV9kqa6zsyXCLmeXIhkIJU8u3u2OPv/us9n4cqbfVitauiasjjZIisuwPk5/WNuujRq7oAjMY7LsxwOqzZoOx9VSQi63utgpLhcUERBaolQ55Y0OSck+B3+vOmEy231BHb6yWJJIpJW9aT1EUnOEAI2I8jck7bAaNGkR04mHpCfZ4fFLlpzsB9/wCJZSVNNRyAwoPxC5VNvs4J0aNGgfQhcclC72bpPwXA/Vf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">僕らは今のなかで</div>
@@ -321,6 +314,13 @@
                                 <div class="infos">
                                     <div class="name">KING</div>
                                     <div class="artist">Kanaria</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIEBQYBBwgD/8QAMBAAAgEDAgQEBAYDAAAAAAAAAQIDAAQRBSEGBxIxExQiQRVCUWFScYGhsdGywfD/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUCAQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEMRIUQQX/2gAMAwEAAhEDEQA/AL5pnM/iS60zz8tnpypkjw443LHH3L7fvTvROat9dSnztnCkLHCvHG2f8t6pKabdWsIsZQ0MXzK6gYB+m2aSukTxkNaKzBfUCh3296n18s53uXz+eoE3bpfFQvZ3jwile3WhQn9CadazxHHo9q1xqEkFvD7NI2B+5rUNrrknmLc6gJZUTCsHG2P0/mpbjrTdJ13R5WmviIZIBHamST0pKflO+cn70w1wADLFG4ShsHQl4seLvil7PbabJASkKuHZGPqJPtnttRXJYtr+binhqwtdQu7C5QJHJKJPDEKqTk9WfwjO9FMrgjIMRekA4nS2j3AvlEN4sb7YX0Akn8zTi64VuZFD2hWI7+nOK8Y9PuVKSeCyJke2/apoP5W18ZZJutRkJvvvj+a8rRcenBlyxypzUe/ko68PvJet54skSHBAOSx+g/ul8x59H0ThWMSFRIQfAgR9lc9nI+Yj6nOPbFS+s6sk8ZMsEsFww9L42NaT5mXEl/qaWzs7tGoKhADnOKNU/m+CdQprawebax8ldmuRxjrGnaT0dKGRg8sIHX0d2/40U55Wvd2vMDyltGjy3EbIY5YgQSuCerAyBge3airSuKxhZN8UBOZ1ydJu3iMbyIFwF9JIxjtS/hEowQ46h2OTt3/uiihrw6u4j7D9TMmlPMuLlYZOnPTkZ/1VG4w5WJrkxu7J4LO+9Kk5JQgHPbGx79qKK16lfc6vJsXYMY2nKi50fiSHXNHktZb0KEbzjkhVIw+AF3JHuaKKKItKgTDXOxyZ/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">吹雪</div>
+                                    <div class="artist">西沢幸奏</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -507,7 +507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2024, 00:30:41  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Oct 2024, 01:35:25  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
