@@ -219,13 +219,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="142.6267016869138" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="142.6267016869138" y="0" width="99.94600703640613" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="242.57270872331995" y="0" width="88.70760034165541" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="331.28030906497537" y="0" width="50.14195392727773" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="381.4222629922531" y="0" width="37.087127233413995" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="418.5093902256671" y="0" width="22.356517087545864" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="440.865907313213" y="0" width="19.134092686787042" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="142.46090641989167" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="142.46090641989167" y="0" width="99.82982560103386" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="242.29073202092553" y="0" width="88.6044829021326" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="330.8952149230581" y="0" width="50.08366681454176" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="380.9788817375999" y="0" width="37.04401559940702" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="418.0228973370069" y="0" width="22.33407532221635" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="440.3569726592233" y="0" width="19.643027340776744" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -310,17 +310,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAKhAAAgEDAgUEAgMBAAAAAAAAAQIDBAURACEGEjFBURMiI2EycRQVkeH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACoRAAEEAQIFAQkAAAAAAAAAAAEAAgMEERIhBRMiMUFRBhRxgZGhwfDx/9oADAMBAAIRAxEAPwChkrxR1kVKVMrlNyWOFz05t/P+6iOKpKmqo3WWOEFarrDKZF5VXcf6RvqsRaupuE9zpIsmB0iYSDmSdACXyOxBIGen3rfxXHHdrRYpqW2NHFDVKsxjhPOgUYkJVdiM8u2xzjG+oXDIjzdTiMLTDUZHXBczc+Sl/A1gnrOJ56e9pLC86LP6MLncD2gMBnlH4nfBHnB1WcR2s0VEkfD9xqaX+VN/GnQuZFClcl8HcFdsgEA6oKKS411THcoKQUix/GZK6IwFkwAwOcMfx5skfXTSusubxXOO42Wn/spqYNHG8MqkPGSA+IwegKj3Z/etVikHytkGwTIBpJLR3XlFFU3KwXVqO7+pJRTSNHHUMCckMVJGdyMgj60a2zG58S8SpDXVqUFIkhlWnqJSIwQ3MEwc4JBzk7b7YGjS7EED36sH5JFupDC4c0EkjOypeG5Z6O9NT0lItdDGRM+JlHIpG4YMQMd8/WuF34pltdylqAtTW0rrzLSOvJAzjlKurqCoOV/EHfOpni4vJNRRyVTJBUyrG0ivhUUEdV6HbudWt64gt9xs9po6dHe5ygLTh48ZVc/KATkAnBAO427Z06rFisJP3ZNrXJJWNB8jH4UdW8c8TzyzVtfbEpaCeBqdElDMpDE5IOQQ2Nv150xorsbGiX2xyLE7U0dOtsWEs0SA+7LEZYbZ5h3znVvU1UPD1DBJHTTVirCTPTzLgqDt8hJPuJBI2xjI1ylFrvdlhdlEcr/PMAvuTCdA4OTvkZPY40bZiR1nqHoqnvDGQiNjd/U+fiF5bebtcLvxRRiShmjjmETGRhlpenM2ew27jYaNNrVNK9XJGlQlRTqWVZlJbYHAGT389vGjU2ezh3Zc3xKxJztLvCVV9kqa6zsyXCLmeXIhkIJU8u3u2OPv/us9n4cqbfVitauiasjjZIisuwPk5/WNuujRq7oAjMY7LsxwOqzZoOx9VSQi63utgpLhcUERBaolQ55Y0OSck+B3+vOmEy231BHb6yWJJIpJW9aT1EUnOEAI2I8jck7bAaNGkR04mHpCfZ4fFLlpzsB9/wCJZSVNNRyAwoPxC5VNvs4J0aNGgfQhcclC72bpPwXA/Vf/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">僕らは今のなかで</div>
-                                    <div class="artist">μ's</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAMEBQYHAQII/8QALBAAAQMDBAEEAgAHAAAAAAAAAQIDBAAFEQYSITFBBxNRgSIjFDJSkbHB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAcEQEBAAMAAwEAAAAAAAAAAAABAAIRIRIxQVH/2gAMAwEAAhEDEQA/APMgHOPNclHCu8inEV9KELS5kg9YFJFefcz2aMqSespJbcjPIUy4nf8AkrlAwc7vsEUxRFW5IUw0n3HPG3nOPirNpXRF/wBTWW4zrY0VRYCAV7nAgHs4GSMns4FdtCrdtWqrJd3WYr0VT4GHlJKf6TuHODzkZHxU3+V1VV6M8wf3NLbO3dhQxx1RVo9TEzkapnLmQmorTrq1spZSUt7CokbQQDjnyBRVPVHlKaA9Mpmr9M3i7R5sZhUJQbbjuZ3vLxu8dDHAJ81TodqkPT2YziFNFxSU7ljAGf8AlbvpZ+/6PdbsjcZq2qvsUyEKkAHbxtSSkHOef5TjwceKx6/xpdnuS4d2QpExl8qLvkjo8/QP3QHurTLEDZaZZ9Ry9M+mt/sakb/deW3DffwGmklO1Sk5JOSSrAx5JzWYsQHbXLDKpER9yTHO5Dat4aKhkAnrdjnjqlbxdXP3RPYcLDIU2C4d21Wck5+TgfVQ1qIU+0FLKE5IyPg0wDsFXk71DcJ854fx7pcW2yhBJV2lPX+aKVmxHnosl6MFPAfgdiNx25znjocUV0vDJ7WG7+oNy1DqaNMuAEZttxWxCSNze4AHKsZJ489eBUTqu8y71c2nLsVSn/cPBP5KHCR0OiB/uiipoNUclln5MWEw8l+O6qYshTiXcAo4GeCOarUl5tuYl2KktoSQQAef70UUo/axWG7zotsnvWm8ogLaHuKhODPv+CUnGPo80UUUE7bY8L//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Magia</div>
                                     <div class="artist">Kalafina</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAv/EACwQAAEDAwQBAwMEAwAAAAAAAAECAwQABREGEiExE0FRYQcUIhUyQqFxcpH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQH/xAAiEQACAwABBAIDAAAAAAAAAAABAgADERIEISIxE0FRYYH/2gAMAwEAAhEDEQA/AMk+jdpkPOTrgplLcOPtC5LqApsHB/HnjPr8VfalsNmcYnXGDLeMp9KnUtlwbdpOSNvpwSe6m09bZtt0Pcrc635lyJzcuGCktqP4ncSOgMAdZHNS/UVF6it2/wC5/TnLcIqEpfiNlPJThQOffPv6cCuq3kAY21KpUdGkxH0zYUXKLaSw+hx56WWXIziOEAJzuzn8hgdYHPHVb/FYhacsMO12Zv7JmU4olAaK1FzjJKhnj5PAAArKNLOWiBb7e8Y7TMiNclyFygvaosePBQodYCsEHjvFO6/qB4tOvTG4qytElbPlbIU2oKwpKUn5TzjHB9eRS5rdt4yVWKhCsO8tEXpuOpiLNkW592elTUdmY4EofBGPyB/ieuueu6Ky+4OWDV+sYd4lXlMNthxrLD7KlKcQk7ing8YwRnBHIookTB5+5Y7O51V7Ru0TIb1I/cUTkurZRH+3bTHUlK9wwSEc5B+Bkc815euFoXa40TUAlsqt+5bkYsKPnKSQlOfjIycjr2NcNubvKZD8uPBh2diO4p7xNMhIWoYOwEglRwOifQECnCDbU3qREudwU/8AdISpSkJQCXCojbkHABx6D/NHYoq8mYS8EO2AZECXOg6gelx50GEhCX1gNslaFKSnbgZB5SQkdY+MGoZ1vsUbTLLUJmRGmElckRi5tUQDjhZIH+2BxmrGOBK1HcgVRdPuBgoUnzJJHIylSQcpJA9sfBo041FVOLynXnVo3POuJZ3hJzjjPScEYwTjgg0At+NS8VahWbjv9mfT7DdLdpqFfnJbKmZK9iUoI3JcyQQrPXvn/tFPeu3oT8RTTUFPkQFKbKVEqWrHJz+4En0/v2KlT/KvLIdlZrOCPd0mWtoiRqeUmLO2qUy4CQFqSCckJyndz3/QHFcLN7j6gti58uWtiIlsrUphZw24hQUo+TaAeAQQPQ9UUUveobN/MbDHnkoNQvwZ6S/p95uXc1FBcyVEPoHaE5OcAD0PwBVd9OZkm4a5KbvMXDCcJMQIKTJASTt6wckAY7PpRRT1Cjhn7ES69BWeS+8McdOxrddtY2i6OwGnIl1iqVHbdjlnxhJXncgEpK+O+iBnFFFFaFKrnqYnUWOCO/1P/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Bad Apple!!</div>
+                                    <div class="artist">のみこ</div>
                                 </div>
                             </div>
                         </div>
@@ -500,7 +500,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jan 2025, 16:08:03  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 15 Jan 2025, 17:07:13  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
