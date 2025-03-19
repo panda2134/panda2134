@@ -289,10 +289,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIEBQYBBwgD/8QAMBAAAgEDAgQEBAYDAAAAAAAAAQIDAAQRBSEGBxIxExQiQRVCUWFScYGhsdGywfD/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUCAQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEMRIUQQX/2gAMAwEAAhEDEQA/AL5pnM/iS60zz8tnpypkjw443LHH3L7fvTvROat9dSnztnCkLHCvHG2f8t6pKabdWsIsZQ0MXzK6gYB+m2aSukTxkNaKzBfUCh3296n18s53uXz+eoE3bpfFQvZ3jwile3WhQn9CadazxHHo9q1xqEkFvD7NI2B+5rUNrrknmLc6gJZUTCsHG2P0/mpbjrTdJ13R5WmviIZIBHamST0pKflO+cn70w1wADLFG4ShsHQl4seLvil7PbabJASkKuHZGPqJPtnttRXJYtr+binhqwtdQu7C5QJHJKJPDEKqTk9WfwjO9FMrgjIMRekA4nS2j3AvlEN4sb7YX0Akn8zTi64VuZFD2hWI7+nOK8Y9PuVKSeCyJke2/apoP5W18ZZJutRkJvvvj+a8rRcenBlyxypzUe/ko68PvJet54skSHBAOSx+g/ul8x59H0ThWMSFRIQfAgR9lc9nI+Yj6nOPbFS+s6sk8ZMsEsFww9L42NaT5mXEl/qaWzs7tGoKhADnOKNU/m+CdQprawebax8ldmuRxjrGnaT0dKGRg8sIHX0d2/40U55Wvd2vMDyltGjy3EbIY5YgQSuCerAyBge3airSuKxhZN8UBOZ1ydJu3iMbyIFwF9JIxjtS/hEowQ46h2OTt3/uiihrw6u4j7D9TMmlPMuLlYZOnPTkZ/1VG4w5WJrkxu7J4LO+9Kk5JQgHPbGx79qKK16lfc6vJsXYMY2nKi50fiSHXNHktZb0KEbzjkhVIw+AF3JHuaKKKItKgTDXOxyZ/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYC/8QALRAAAQMCBAMGBwAAAAAAAAAAAQACAwQRBRITISIxMkFRYYGxwQYUUnGRofD/xAAZAQACAwEAAAAAAAAAAAAAAAAEBgEFBwL/xAAkEQABBAEDAwUAAAAAAAAAAAABAAIDBBEFEjEGEyEyQVGxwf/aAAwDAQACEQMRAD8Adv4ov3FQ0jS2LiZFGSb2jNx9+SgxeodT0l2GznnLfuQjIy94aPdaXbttq13WH8AJp00bTZ0jAfFwXXnt4LHE9t1e4FM90b4ng5W7tPsjJ6XbZuBzhLWk9UOvWRC+PAPBTVbHqPhtNpkOuBfq/h6oXFdO6GaENg1M1+K3SUIRuceEySOj3nd+qSkOnDl04o9+mI3Holcb46MH6XAqOhrqVkFnxiI36YbFvslcdxWmbROjiLzI8gAEDki4YXtlBwlrUdWrT03xB2SQkKeZscoLwHAm26v8NfmzusA3ksOKx2m8WC0Pw1ikHy0kVQZM4dmBAG480daj3MOB5S3olt1aZokdhgz9LQyOkJbpuDRfi27EJOasopDERJM0sdm2tv8AtCrBXf8ACcHa7Wz61QtAaLAAKqxNhFS15IILdh3IQrgcrPkoALnbYq3ooI2Ma+MmxbYX/JQhS7hSU0UIQuFC/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">吹雪</div>
-                                    <div class="artist">西沢幸奏</div>
+                                    <div class="name">夜に駆ける</div>
+                                    <div class="artist">YOASOBI</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -500,7 +500,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Mar 2025, 05:08:06  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 19 Mar 2025, 06:10:21  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
