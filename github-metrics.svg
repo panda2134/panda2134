@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juicity/juicity</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">juicity is a quic-based proxy protocol implementation.</div>
@@ -407,7 +407,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2025, 11:07:16  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Apr 2025, 12:12:57  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
