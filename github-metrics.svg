@@ -306,7 +306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>obeone/multi-registry-cache</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-registry cache for Docker/containerd, optimizing image pulls using the original registry image</div>
@@ -465,7 +465,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2025, 23:08:53  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Jul 2025, 00:37:35  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
