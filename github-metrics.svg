@@ -306,7 +306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/folly</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source C++ library developed and used at Facebook.</div>
@@ -359,7 +359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yugr/SymbolHider</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool which hides symbols exported from shared libraries or relocatable object files</div>
@@ -412,7 +412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lief-project/LIEF</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LIEF - Library to Instrument Executable Formats (C++, Python, Rust)</div>
@@ -462,7 +462,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2025, 12:14:27  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Jul 2025, 13:19:01  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
