@@ -306,7 +306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pkgforge/soar</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) &amp; More [maintainer=@QaidVoid]</div>
@@ -359,7 +359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidtall/OpenWRT-CI</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">云编译OpenWRT开源固件</div>
@@ -456,7 +456,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Aug 2025, 00:32:59  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Aug 2025, 01:35:37  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
