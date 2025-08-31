@@ -406,7 +406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>refi64/zypak</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Electron binaries in a sandboxed Flatpak environment</div>
@@ -456,7 +456,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2025, 18:09:00  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 31 Aug 2025, 19:06:32  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
