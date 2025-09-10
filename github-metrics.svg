@@ -306,7 +306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>regclient/regclient</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker and OCI Registry Client in Go and tooling using those libraries.</div>
@@ -359,7 +359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cirrus-actions/rebase</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action to automatically rebase PRs</div>
@@ -462,7 +462,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Sept 2025, 21:06:56  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Sept 2025, 22:07:26  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
