@@ -306,7 +306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharkdp/fd</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, fast and user-friendly alternative to 'find'</div>
@@ -412,7 +412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cirrus-actions/rebase</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action to automatically rebase PRs</div>
@@ -462,7 +462,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2025, 05:07:32  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Oct 2025, 06:10:17  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
