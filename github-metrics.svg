@@ -413,7 +413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>regclient/regclient</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker and OCI Registry Client in Go and tooling using those libraries.</div>
@@ -463,7 +463,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2025, 10:08:49  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Oct 2025, 11:07:09  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
