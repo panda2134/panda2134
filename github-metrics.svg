@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>go-lark/lark</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An easy-to-use SDK for Feishu and Lark Open Platform (Instant Messaging API only)</div>
@@ -357,7 +357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>will-ockmore/httpx-retries</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A retry layer for HTTPX.</div>
@@ -407,7 +407,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2025, 08:11:38  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 26 Nov 2025, 09:10:11  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
