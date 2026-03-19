@@ -306,7 +306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ovh/the-bastion</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Authentication, authorization, traceability and auditability for SSH accesses.</div>
@@ -359,7 +359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>warp-tech/warpgate</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software</div>
@@ -456,7 +456,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Mar 2026, 08:21:55  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 19 Mar 2026, 09:22:53  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
