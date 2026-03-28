@@ -412,7 +412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eonsystemspbc/fly-brain</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Emulation of the Drosophila Fly brain: Brian2, Brian2CUDA, PyTorch, NEST GPU, and neuromorphic chips</div>
@@ -456,7 +456,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2026, 06:29:54  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Mar 2026, 07:25:33  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
