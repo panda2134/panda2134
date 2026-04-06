@@ -306,7 +306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eliben/pyelftools</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Parsing ELF and DWARF in Python</div>
@@ -412,7 +412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ovh/the-bastion</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Authentication, authorization, traceability and auditability for SSH accesses.</div>
@@ -462,7 +462,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2026, 01:42:57  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 Apr 2026, 03:15:36  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
