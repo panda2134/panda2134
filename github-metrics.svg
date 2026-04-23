@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>strace/strace</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">strace is a diagnostic, debugging and instructional userspace utility for Linux</div>
@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andrew-d/static-binaries</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Various *nix tools built as statically-linked binaries</div>
@@ -407,7 +407,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2026, 12:33:05  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Apr 2026, 13:40:37  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
