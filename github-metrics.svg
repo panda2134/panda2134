@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>squid-cache/squid</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Squid Web Proxy Cache - Source Code</div>
@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linkedin/shiv</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.</div>
@@ -407,7 +407,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2026, 14:29:42  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 8 Jun 2026, 16:27:39  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
