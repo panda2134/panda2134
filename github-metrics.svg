@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linkedin/shiv</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.</div>
@@ -407,7 +407,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jun 2026, 15:17:20  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Jun 2026, 17:03:41  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
