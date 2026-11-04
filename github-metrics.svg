@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gojue/ecapture</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64\arm64 and loong64.</div>
@@ -407,7 +407,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2026, 20:53:39  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Nov 2026, 01:10:13  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
